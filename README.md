@@ -23,36 +23,36 @@ Code::Blocks and the MinGW compiler was used.
 ## TODO
 * Hinzufügen des TODO Verzeichnisses
 * XML auf Basis von wxWidgets oder tinyxml2?
- * XML muss Unicode kompatibel sein
+  * XML muss Unicode kompatibel sein
 * ObjectArray
- * CopyTo() implementieren
- * Reverse() implementieren
- * ReadOnly Flag implementieren
+  * CopyTo() implementieren
+  * Reverse() implementieren
+  * ReadOnly Flag implementieren
 * String
- * Falls _RUSH_SUPPORTS_WXWIDGETS_ aktiv dann in String wxString verwenden
- * Bzw testen ob direkt typedef String wxString; verwendet werden könnte
- * Unicode
+  * Falls _RUSH_SUPPORTS_WXWIDGETS_ aktiv dann in String wxString verwenden
+  * Bzw testen ob direkt typedef String wxString; verwendet werden könnte
+  * Unicode
 * Sortierungen
- * Quicksort
- * Introsort
- * Smoothsort (?)
- * Stabiles Sortierungsverfahren
+  * Quicksort
+  * Introsort
+  * Smoothsort (?)
+  * Stabiles Sortierungsverfahren
 * Anstatt Dictionary
- * StaticHashTable (Optimiert auf kleiner Speicherbedarf, langsam beim Hinzufügen)
- * DynamicHashTable (Optimiert auf schelles Hinzufügen, großer Speicherbedarf)
- * Hashing von int, string, wxString und Klassen mit IHashable
+  * StaticHashTable (Optimiert auf kleiner Speicherbedarf, langsam beim Hinzufügen)
+  * DynamicHashTable (Optimiert auf schelles Hinzufügen, großer Speicherbedarf)
+  * Hashing von int, string, wxString und Klassen mit IHashable
 * Version
- * Read and Write
- * Assigment Operator
- * Copy Constructor
+  * Read and Write
+  * Assigment Operator
+  * Copy Constructor
 * NTL Library einbauen (als rush::math)
- * Und vervollständigen
+  * Und vervollständigen
 * pthreads verwenden (als rush::threads)
- * WorkDistributor (input work und verteilen auf viele threads)
- * WorkCollector (input work und in einem thread abarbeiten)
- * ThreadPool
- * ObjectQueueSafe
- * ObjectStackSafe
+  * WorkDistributor (input work und verteilen auf viele threads)
+  * WorkCollector (input work und in einem thread abarbeiten)
+  * ThreadPool
+  * ObjectQueueSafe
+  * ObjectStackSafe
 
 
 ## Additional TODOs
