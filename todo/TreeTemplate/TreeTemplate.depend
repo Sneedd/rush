@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1187422308 source:e:\projects\complexdatatype\treetemplate\main.cpp
+	<iostream>
+	<time.h>
+	"treecontainer.h"
+
+1187358836 source:e:\projects\complexdatatype\treetemplate\node.cpp
+	"node.h"
+	"treecontainer.h"
+
+1187380932 e:\projects\complexdatatype\treetemplate\node.h
+	<string>
+	"data.h"
+
+1187358898 e:\projects\complexdatatype\treetemplate\data.h
+
+1187381050 e:\projects\complexdatatype\treetemplate\treecontainer.h
+	<string>
+	"node.h"
+
+1187382054 source:e:\projects\complexdatatype\treetemplate\treecontainer.cpp
+	"treecontainer.h"
+	"node.h"
+
+1187354404 source:e:\projects\complexdatatype\treetemplate\data.cpp
+	"data.h"
+
+1187421724 source:e:\projects\complexdatatype\treetemplate\timer.cpp
+	"timer.h"
+
+1187421742 e:\projects\complexdatatype\treetemplate\timer.h
+	<time.h>
+

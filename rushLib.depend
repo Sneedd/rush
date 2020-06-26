@@ -1,0 +1,4671 @@
+# depslib dependency file v1.0
+1341447871 source:c:\users\steffen\projekte\mingw\utilitylibrary\main.cpp
+	"test/test.h"
+	<rush/convert.h>
+
+1341068622 c:\users\steffen\projekte\mingw\utilitylibrary\test\convert_test.c
+	<rush/convert.h>
+	<stdio.h>
+
+1341446952 c:\users\steffen\projekte\mingw\utilitylibrary\include\rush\convert.h
+	<rush/string.h>
+
+1341070765 source:c:\users\steffen\projekte\mingw\utilitylibrary\test\convert_test.cpp
+	<rush/convert.h>
+	<stdio.h>
+
+1341068622 c:\users\steffen\projekte\mingw\utilitylibrary\test\convert_test.cpp
+	<rush/convert.h>
+	<stdio.h>
+
+1341447205 c:\users\steffen\projekte\mingw\utilitylibrary\test\test.h
+
+1341446247 source:c:\users\steffen\projekte\mingw\utilitylibrary\test\random_test.cpp
+	<rush/random.h>
+	<stdio.h>
+
+1341450393 c:\users\steffen\projekte\mingw\utilitylibrary\include\rush\random.h
+
+1341433223 source:c:\users\steffen\projekte\mingw\utilitylibrary\test\string_test.cpp
+	"test.h"
+	<rush/string.h>
+
+1341439428 c:\users\steffen\projekte\mingw\utilitylibrary\include\rush\string.h
+	<rush/config.h>
+	<rush/buildinexpect.h>
+	<rush/macros.h>
+	<string.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
+1341447354 c:\users\steffen\projekte\mingw\utilitylibrary\include\rush\config.h
+	<stdio.h>
+
+1341412365 c:\users\steffen\projekte\mingw\utilitylibrary\include\rush\buildinexpect.h
+
+1341415087 c:\users\steffen\projekte\mingw\utilitylibrary\include\rush\macros.h
+	<rush/config.h>
+	<stdio.h>
+
+1341446067 source:c:\users\steffen\projekte\mingw\utilitylibrary\src\string.cpp
+	<rush/string.h>
+	<stdio.h>
+	<stdarg.h>
+
+1341435016 source:c:\users\steffen\projekte\mingw\utilitylibrary\test\stringarray_test.cpp
+	"test.h"
+	<rush/stringarray.h>
+
+1341434138 c:\users\steffen\projekte\mingw\utilitylibrary\include\rush\stringarray.h
+	<rush/config.h>
+	<rush/string.h>
+
+1341435810 source:c:\users\steffen\projekte\mingw\utilitylibrary\src\convert.cpp
+
+1341450380 source:c:\users\steffen\projekte\mingw\utilitylibrary\src\random.cpp
+	<rush/random.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1341435772 source:c:\users\steffen\projekte\mingw\utilitylibrary\src\stringarray.cpp
+
+1341443098 source:c:\users\steffen\projekte\mingw\utilitylibrary\src\parser.cpp
+	<rush/parser.h>
+
+1341444287 c:\users\steffen\projekte\mingw\utilitylibrary\include\rush\parser.h
+	<rush/config.h>
+	<rush/string.h>
+	<rush/primitivearray.h>
+
+1341447376 source:c:\users\steffen\projekte\mingw\utilitylibrary\test\parser_test.cpp
+	"test.h"
+	<rush/parser.h>
+	<rush/system.h>
+	<stdlib.h>
+
+1341437992 c:\users\steffen\projekte\mingw\utilitylibrary\include\rush\system.h
+	<rush/config.h>
+	<rush/string.h>
+
+1341438697 source:c:\users\steffen\projekte\mingw\utilitylibrary\src\system.cpp
+	<rush/system.h>
+	<windows.h>
+
+1341447850 c:\users\steffen\projekte\mingw\utilitylibrary\include\rush\primitivearray.h
+	<rush/config.h>
+	<rush/buildinexpect.h>
+	<string.h>
+
+1341447816 source:c:\users\steffen\projekte\mingw\utilitylibrary\test\primitivearray_test.cpp
+	"test.h"
+	<rush/primitivearray.h>
+
+1343302850 source:c:\users\steffen\projekte\mingw\rushlib\src\parser.cpp
+	<rush/parser.h>
+	<stdlib.h>
+	<math.h>
+
+1343220605 c:\users\steffen\projekte\mingw\rushlib\include\rush\parser.h
+	<rush/config.h>
+	<rush/string.h>
+	<rush/array.h>
+
+1343220309 c:\users\steffen\projekte\mingw\rushlib\include\rush\config.h
+	<rush/memory.h>
+
+1343754193 c:\users\steffen\projekte\mingw\rushlib\include\rush\string.h
+	<rush/config.h>
+	<string.h>
+	<stdarg.h>
+	<string>
+	<iostream>
+	<wx/string.h>
+
+1343220238 c:\users\steffen\projekte\mingw\rushlib\include\rush\buildinexpect.h
+	<rush/config.h>
+
+1343220439 c:\users\steffen\projekte\mingw\rushlib\include\rush\macros.h
+	<rush/config.h>
+	<rush/log.h>
+
+1341999435 c:\users\steffen\projekte\mingw\rushlib\include\rush\primitivearray.h
+	<rush/config.h>
+	<rush/buildinexpect.h>
+	<rush/log.h>
+	<string.h>
+
+1343375807 source:c:\users\steffen\projekte\mingw\rushlib\src\random.cpp
+	<rush/random.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1343308559 c:\users\steffen\projekte\mingw\rushlib\include\rush\random.h
+	<rush/config.h>
+
+1349615114 source:c:\users\steffen\projekte\mingw\rushlib\src\string.cpp
+	<rush/string.h>
+	<rush/log.h>
+	<rush/buildinexpect.h>
+	<rush/macros.h>
+	<libintl.h>
+	<stdio.h>
+
+1349615155 source:c:\users\steffen\projekte\mingw\rushlib\src\system.cpp
+	<rush/system.h>
+	<windows.h>
+
+1343304885 c:\users\steffen\projekte\mingw\rushlib\include\rush\system.h
+	<rush/config.h>
+	<rush/string.h>
+
+1349626518 source:c:\users\steffen\projekte\mingw\rushlib\src\convert.cpp
+	<rush/convert.h>
+
+1343333985 source:c:\users\steffen\projekte\mingw\rushlib\src\stringarray.cpp
+	<rush/stringarray.h>
+	<rush/log.h>
+	<rush/buildinexpect.h>
+	<rush/macros.h>
+
+1349613367 c:\users\steffen\projekte\mingw\rushlib\include\rush\stringarray.h
+	<rush/config.h>
+	<rush/string.h>
+
+1349500096 source:c:\users\steffen\projekte\mingw\rushlib\main.cpp
+	"test/unittest.h"
+
+1342516284 c:\users\steffen\projekte\mingw\rushlib\test\test.h
+	<stdio.h>
+
+1343374839 c:\users\steffen\projekte\mingw\rushlib\include\rush\convert.h
+	<rush/config.h>
+	<rush/string.h>
+
+1342516976 source:c:\users\steffen\projekte\mingw\rushlib\test\convert_test.cpp
+	<rush/convert.h>
+	<stdio.h>
+
+1341994130 source:c:\users\steffen\projekte\mingw\rushlib\test\parser_test.cpp
+	"test.h"
+	<rush/parser.h>
+	<rush/system.h>
+	<stdlib.h>
+
+1341994748 source:c:\users\steffen\projekte\mingw\rushlib\test\primitivearray_test.cpp
+	"test.h"
+	<rush/primitivearray.h>
+
+1341446247 source:c:\users\steffen\projekte\mingw\rushlib\test\random_test.cpp
+	<rush/random.h>
+	<stdio.h>
+
+1342176585 source:c:\users\steffen\projekte\mingw\rushlib\test\string_test.cpp
+	"test.h"
+	<rush/string.h>
+
+1341994815 source:c:\users\steffen\projekte\mingw\rushlib\test\stringarray_test.cpp
+	"test.h"
+	<rush/stringarray.h>
+
+1341934100 source:c:\users\steffen\projekte\mingw\rushlib\test\vector_test.cpp
+	<rush/vector.h>
+	<stdio.h>
+
+1343340755 c:\users\steffen\projekte\mingw\rushlib\include\rush\vector.h
+	<rush/vector2.h>
+	<rush/vector3.h>
+
+1343581011 c:\users\steffen\projekte\mingw\rushlib\include\rush\vector2.h
+	<rush/config.h>
+
+1349614694 source:c:\users\steffen\projekte\mingw\rushlib\src\log.cpp
+	<rush/log.h>
+	<libintl.h>
+	<stdio.h>
+
+1343311122 c:\users\steffen\projekte\mingw\rushlib\include\rush\log.h
+	<rush/config.h>
+	<rush/string.h>
+	<rush/logtarget.h>
+	<stdarg.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\string.h
+	"wx/defs.h"
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	<stdarg.h>
+	<limits.h>
+	<stdlib.h>
+	<strings.h>
+	"wx/wxcrtbase.h"
+	"wx/strvararg.h"
+	"wx/buffer.h"
+	"wx/strconv.h"
+	"wx/stringimpl.h"
+	"wx/stringops.h"
+	"wx/unichar.h"
+	"wx/tls.h"
+	"wx/iosfwrap.h"
+	"wx/crt.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\defs.h
+	"wx/platform.h"
+	"wx/version.h"
+	"wx/dlimpexp.h"
+	<stddef.h>
+	"wx/debug.h"
+	<sys/types.h>
+	<sys/types.h>
+	"wx/windowid.h"
+	<unistd.h>
+	"wx/msw/winundef.h"
+	"wx/features.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\platform.h
+	<stddef.h>
+	<unistd.h>
+	<TargetConditionals.h>
+	<AvailabilityMacros.h>
+	"wx/osx/config_xcode.h"
+	"wx/setup.h"
+	"wx/setup_gccxml.h"
+	"wx/msw/wince/libraries.h"
+	"wx/msw/libraries.h"
+	"wx/msw/gccpriv.h"
+	<TargetConditionals.h>
+	<AvailabilityMacros.h>
+	"wx/chkconf.h"
+	"wx/palmos/missing.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\config_xcode.h
+
+1331550418 c:\dev\wxwidgets\include\wx\setup.h
+
+1323888240 c:\dev\wxwidgets\include\wx\setup_gccxml.h
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\wince\libraries.h
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\libraries.h
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\gccpriv.h
+	<_mingw.h>
+	<w32api.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\chkconf.h
+	"wx/palmos/chkconf.h"
+	"wx/msw/wince/chkconf.h"
+	"wx/msw/chkconf.h"
+	"wx/gtk/chkconf.h"
+	"wx/cocoa/chkconf.h"
+	"wx/osx/chkconf.h"
+	"wx/os2/chkconf.h"
+	"wx/mgl/chkconf.h"
+	"wx/dfb/chkconf.h"
+	"wx/motif/chkconf.h"
+	"wx/x11/chkconf.h"
+	"wx/unix/chkconf.h"
+	"wx/univ/chkconf.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\palmos\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\wince\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\chkconf.h
+	"wx/osx/iphone/chkconf.h"
+	"wx/osx/carbon/chkconf.h"
+	"wx/osx/cocoa/chkconf.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\iphone\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\carbon\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\cocoa\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\mgl\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\dfb\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\motif\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\x11\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\unix\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\univ\chkconf.h
+
+1323888240 c:\dev\wxwidgets\include\wx\palmos\missing.h
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<PalmTypes.h>
+	<MemoryMgr.h>
+	<StringMgr.h>
+	<UIResources.h>
+	<ErrorMgr.h>
+	<DataMgr.h>
+	<wchar.h>
+	<unistd.h>
+	<time.h>
+	<StatusBar.h>
+	<Loader.h>
+	<PalmTypesCompatibility.h>
+	<PenInputMgr.h>
+	"sections.h"
+	"pfall.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\version.h
+	"wx/cpp.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\cpp.h
+
+1323888240 c:\dev\wxwidgets\include\wx\dlimpexp.h
+
+1323888240 c:\dev\wxwidgets\include\wx\debug.h
+	<assert.h>
+	<limits.h>
+	"wx/chartype.h"
+	"wx/cpp.h"
+	"wx/dlimpexp.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\chartype.h
+	"wx/platform.h"
+	<sys/types.h>
+	<wchar.h>
+	<wcstr.h>
+	<stdlib.h>
+	<widec.h>
+	<ctype.h>
+	<stddef.h>
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	<tchar.h>
+	<ctype.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\windowid.h
+
+1343729036 c:\dev\wxwidgets\include\wx\msw\winundef.h
+
+1323888240 c:\dev\wxwidgets\include\wx\features.h
+
+1323888240 c:\dev\wxwidgets\include\wx\wxcrtbase.h
+	"wx/chartype.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<wchar.h>
+	<wctype.h>
+	<time.h>
+	<io.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\strvararg.h
+	"wx/platform.h"
+	"wx/cpp.h"
+	"wx/chartype.h"
+	"wx/strconv.h"
+	"wx/buffer.h"
+	"wx/unichar.h"
+	<type_traits>
+	<type_traits>
+	<tr1/type_traits>
+	"wx/stringimpl.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\strconv.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/buffer.h"
+	"typeinfo.h"
+	<stdlib.h>
+	"wx/fontenc.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\buffer.h
+	"wx/chartype.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\typeinfo.h
+	"wx/defs.h"
+	<typeinfo>
+	<string.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\fontenc.h
+
+1323888240 c:\dev\wxwidgets\include\wx\unichar.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\stringimpl.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+	"wx/beforestd.h"
+	<string>
+	"wx/afterstd.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\beforestd.h
+
+1323888240 c:\dev\wxwidgets\include\wx\afterstd.h
+	"wx/msw/winundef.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\stringops.h
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+	"wx/unichar.h"
+	"wx/buffer.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\tls.h
+	"wx/defs.h"
+	"wx/msw/tls.h"
+	"wx/os2/tls.h"
+	"wx/unix/tls.h"
+	<stdlib.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\tls.h
+	"wx/msw/wrapwin.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\wrapwin.h
+	"wx/platform.h"
+	<winsock2.h>
+	<windows.h>
+	"wx/msw/winundef.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\thread.h
+	"wx/defs.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\vector.h
+	"wx/defs.h"
+	<vector>
+	<algorithm>
+	"wx/utils.h"
+	"wx/scopeguard.h"
+	"wx/meta/movable.h"
+	"wx/meta/if.h"
+	"wx/beforestd.h"
+	<new>
+	"wx/afterstd.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\utils.h
+	"wx/object.h"
+	"wx/list.h"
+	"wx/filefn.h"
+	"wx/hashmap.h"
+	"wx/versioninfo.h"
+	"wx/meta/implicitconversion.h"
+	"wx/gdicmn.h"
+	"wx/mousestate.h"
+	"wx/longlong.h"
+	"wx/platinfo.h"
+	<direct.h>
+	<dirent.h>
+	<unistd.h>
+	<stdio.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\object.h
+	"wx/memory.h"
+	"wx/xti.h"
+	"wx/rtti.h"
+	"wx/xti2.h"
+	"wx/msw/msvcrt.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\memory.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/msgout.h"
+	<stddef.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\msgout.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/strvararg.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\xti.h
+	"wx/defs.h"
+	"wx/xtitypes.h"
+	"wx/xtihandler.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\xtitypes.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/flags.h"
+	"wx/intl.h"
+	"wx/log.h"
+	<typeinfo>
+
+1323888240 c:\dev\wxwidgets\include\wx\hashmap.h
+	"wx/string.h"
+	"wx/wxcrt.h"
+	<unordered_map>
+	<tr1/unordered_map>
+	<ext/hash_map>
+	<hash_map>
+	<stddef.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\wxcrt.h
+	"wx/wxcrtbase.h"
+	"wx/string.h"
+	<string.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\arrstr.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/dynarray.h"
+	"wx/beforestd.h"
+	<iterator>
+	"wx/afterstd.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\dynarray.h
+	"wx/defs.h"
+	"wx/beforestd.h"
+	<vector>
+	<algorithm>
+	"wx/afterstd.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\flags.h
+
+1323888240 c:\dev\wxwidgets\include\wx\intl.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/translation.h"
+	"wx/fontenc.h"
+	"wx/language.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\translation.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/buffer.h"
+	"wx/language.h"
+	"wx/hashmap.h"
+	"wx/strconv.h"
+	"wx/scopedptr.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\language.h
+	"wx/defs.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\scopedptr.h
+	"wx/defs.h"
+	"wx/checkeddelete.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\checkeddelete.h
+
+1323888240 c:\dev\wxwidgets\include\wx\log.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/strvararg.h"
+	"wx/arrstr.h"
+	<time.h>
+	"wx/dynarray.h"
+	"wx/hashmap.h"
+	"wx/thread.h"
+	"wx/iosfwrap.h"
+	"wx/generic/logg.h"
+	"wx/cocoa/log.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\iosfwrap.h
+	<iostream.h>
+	<iosfwd>
+	"wx/msw/winundef.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\generic\logg.h
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\log.h
+
+1323888240 c:\dev\wxwidgets\include\wx\xtihandler.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\rtti.h
+	"wx/memory.h"
+	"wx/flags.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\xti2.h
+	"wx/xtiprop.h"
+	"wx/xtictor.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\xtiprop.h
+	"wx/defs.h"
+	"wx/xti.h"
+	"wx/any.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\any.h
+	"wx/defs.h"
+	<new>
+	"wx/string.h"
+	"wx/meta/if.h"
+	"wx/typeinfo.h"
+	"wx/list.h"
+	"wx/datetime.h"
+	"wx/variant.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\meta\if.h
+	"wx/defs.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\list.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/beforestd.h"
+	<algorithm>
+	<iterator>
+	<list>
+	"wx/afterstd.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\datetime.h
+	"wx/defs.h"
+	"wx/msw/wince/time.h"
+	<time.h>
+	<limits.h>
+	"wx/longlong.h"
+	"wx/anystr.h"
+	"wx/dynarray.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\wince\time.h
+
+1323888240 c:\dev\wxwidgets\include\wx\longlong.h
+	"wx/defs.h"
+	"wx/string.h"
+	<limits.h>
+	"wx/iosfwrap.h"
+	<limits>
+	"wx/strvararg.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\anystr.h
+	"wx/string.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\variant.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/arrstr.h"
+	"wx/list.h"
+	"wx/cpp.h"
+	"wx/longlong.h"
+	"wx/datetime.h"
+	"wx/iosfwrap.h"
+	"wx/any.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\xtictor.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\msvcrt.h
+	<stdlib.h>
+	<crtdbg.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\filefn.h
+	"wx/list.h"
+	"wx/arrstr.h"
+	"wx/msw/wince/time.h"
+	"wx/msw/private.h"
+	<time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<utime.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stat.h>
+	<unistd.h>
+	<unix.h>
+	<process.h>
+	"wx/os2/private.h"
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	<unistd.h>
+	<dirent.h>
+	<direct.h>
+	<dos.h>
+	<io.h>
+	<direct.h>
+	<dos.h>
+	<io.h>
+	<io.h>
+	<unistd.h>
+	<dir.h>
+	<fcntl.h>
+	<sys/types.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\private.h
+	"wx/msw/wrapwin.h"
+	"wx/msw/microwin.h"
+	"wx/log.h"
+	"wx/window.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\microwin.h
+
+1323888240 c:\dev\wxwidgets\include\wx\window.h
+	"wx/event.h"
+	"wx/list.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/region.h"
+	"wx/utils.h"
+	"wx/intl.h"
+	"wx/validate.h"
+	"wx/palette.h"
+	"wx/accel.h"
+	"wx/access.h"
+	"wx/palmos/window.h"
+	"wx/msw/window.h"
+	"wx/motif/window.h"
+	"wx/gtk/window.h"
+	"wx/gtk1/window.h"
+	"wx/x11/window.h"
+	"wx/mgl/window.h"
+	"wx/dfb/window.h"
+	"wx/osx/window.h"
+	"wx/cocoa/window.h"
+	"wx/os2/window.h"
+	"wx/univ/window.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\event.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/object.h"
+	"wx/clntdata.h"
+	"wx/gdicmn.h"
+	"wx/cursor.h"
+	"wx/mousestate.h"
+	"wx/dynarray.h"
+	"wx/thread.h"
+	"wx/tracker.h"
+	"wx/typeinfo.h"
+	"wx/any.h"
+	"wx/meta/convertible.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\clntdata.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gdicmn.h
+	"wx/defs.h"
+	"wx/list.h"
+	"wx/string.h"
+	"wx/fontenc.h"
+	"wx/hashmap.h"
+	"wx/math.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\math.h
+	"wx/defs.h"
+	<math.h>
+	<float.h>
+	<ieeefp.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\cursor.h
+	"wx/defs.h"
+	"wx/palmos/cursor.h"
+	"wx/msw/cursor.h"
+	"wx/motif/cursor.h"
+	"wx/gtk/cursor.h"
+	"wx/gtk1/cursor.h"
+	"wx/x11/cursor.h"
+	"wx/mgl/cursor.h"
+	"wx/dfb/cursor.h"
+	"wx/osx/cursor.h"
+	"wx/cocoa/cursor.h"
+	"wx/os2/cursor.h"
+	"wx/utils.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\palmos\cursor.h
+	"wx/palmos/gdiimage.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\palmos\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gdiobj.h
+	"wx/object.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\cursor.h
+	"wx/msw/gdiimage.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\motif\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk1\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/image.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\image.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/stream.h"
+	"wx/variant.h"
+	"wx/imagbmp.h"
+	"wx/imagpng.h"
+	"wx/imaggif.h"
+	"wx/imagpcx.h"
+	"wx/imagjpeg.h"
+	"wx/imagtga.h"
+	"wx/imagtiff.h"
+	"wx/imagpnm.h"
+	"wx/imagxpm.h"
+	"wx/imagiff.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\stream.h
+	"wx/defs.h"
+	<stdio.h>
+	"wx/object.h"
+	"wx/string.h"
+	"wx/filefn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\imagbmp.h
+	"wx/image.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\imagpng.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\versioninfo.h
+	"wx/string.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\imaggif.h
+	"wx/image.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\imagpcx.h
+	"wx/image.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\imagjpeg.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\imagtga.h
+	"wx/image.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\imagtiff.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\imagpnm.h
+	"wx/image.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\imagxpm.h
+	"wx/image.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\imagiff.h
+	"wx/image.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\x11\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\colour.h
+	"wx/defs.h"
+	"wx/gdiobj.h"
+	"wx/variant.h"
+	"wx/generic/colour.h"
+	"wx/msw/colour.h"
+	"wx/motif/colour.h"
+	"wx/gtk/colour.h"
+	"wx/gtk1/colour.h"
+	"wx/generic/colour.h"
+	"wx/generic/colour.h"
+	"wx/x11/colour.h"
+	"wx/osx/colour.h"
+	"wx/cocoa/colour.h"
+	"wx/os2/colour.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\generic\colour.h
+	"wx/object.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\colour.h
+	"wx/object.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\motif\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk\colour.h
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk1\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\palette.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/palmos/palette.h"
+	"wx/msw/palette.h"
+	"wx/x11/palette.h"
+	"wx/generic/paletteg.h"
+	"wx/mgl/palette.h"
+	"wx/osx/palette.h"
+	"wx/os2/palette.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\palmos\palette.h
+	"wx/gdiobj.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\palette.h
+	"wx/gdiobj.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\x11\palette.h
+	"wx/list.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\generic\paletteg.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\mgl\palette.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\palette.h
+	"wx/gdiobj.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\palette.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\private.h
+	<os2.h>
+	<os2def.h>
+	<X11/Xmd.h>
+	<Xm/VendorSP.h>
+	<types.h>
+	<tcpustd.h>
+	<sys/time.h>
+	"wx/dlimpexp.h"
+	"wx/fontenc.h"
+	"wx/thread.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\x11\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\colour.h
+	"wx/osx/core/colour.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\core\colour.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/osx/core/cfref.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\core\cfref.h
+	<unistd.h>
+	<AvailabilityMacros.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\colour.h
+	"wx/object.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\mgl\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\dfb\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\cursor.h
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\bitmap.h
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+	"wx/image.h"
+	"wx/variant.h"
+	"wx/palmos/bitmap.h"
+	"wx/msw/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/gtk/bitmap.h"
+	"wx/gtk1/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/mgl/bitmap.h"
+	"wx/dfb/bitmap.h"
+	"wx/osx/bitmap.h"
+	"wx/cocoa/bitmap.h"
+	"wx/os2/bitmap.h"
+	"wx/generic/mask.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\palmos\bitmap.h
+	"wx/palmos/gdiimage.h"
+	"wx/gdicmn.h"
+	"wx/palette.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\bitmap.h
+	"wx/msw/gdiimage.h"
+	"wx/palette.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\x11\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk\bitmap.h
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk1\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\mgl\bitmap.h
+
+1323888240 c:\dev\wxwidgets\include\wx\dfb\bitmap.h
+	"wx/dfb/dfbptr.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\dfb\dfbptr.h
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\bitmap.h
+	"wx/palette.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\bitmap.h
+	"wx/palette.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\bitmap.h
+	"wx/os2/private.h"
+	"wx/os2/gdiimage.h"
+	"wx/gdicmn.h"
+	"wx/palette.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\generic\mask.h
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\cursor.h
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\cursor.h
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\mousestate.h
+	"wx/gdicmn.h"
+	"wx/kbdstate.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\kbdstate.h
+	"wx/defs.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\tracker.h
+	"wx/defs.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\meta\convertible.h
+
+1323888240 c:\dev\wxwidgets\include\wx\font.h
+	"wx/defs.h"
+	"wx/fontenc.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/palmos/font.h"
+	"wx/msw/font.h"
+	"wx/motif/font.h"
+	"wx/gtk/font.h"
+	"wx/gtk1/font.h"
+	"wx/x11/font.h"
+	"wx/mgl/font.h"
+	"wx/dfb/font.h"
+	"wx/osx/font.h"
+	"wx/cocoa/font.h"
+	"wx/os2/font.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\palmos\font.h
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\font.h
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\motif\font.h
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk\font.h
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk1\font.h
+	"wx/hash.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\hash.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\x11\font.h
+
+1323888240 c:\dev\wxwidgets\include\wx\mgl\font.h
+	"wx/hash.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\dfb\font.h
+	"wx/dfb/dfbptr.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\font.h
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\font.h
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\font.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\region.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/palmos/region.h"
+	"wx/msw/region.h"
+	"wx/gtk/region.h"
+	"wx/gtk1/region.h"
+	"wx/x11/region.h"
+	"wx/mgl/region.h"
+	"wx/dfb/region.h"
+	"wx/osx/region.h"
+	"wx/cocoa/region.h"
+	"wx/os2/region.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\palmos\region.h
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\region.h
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk\region.h
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk1\region.h
+	"wx/list.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\x11\region.h
+	"wx/list.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\mgl\region.h
+	"wx/list.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\dfb\region.h
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\region.h
+	"wx/osx/carbon/region.h"
+	"wx/generic/region.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\carbon\region.h
+	"wx/list.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\generic\region.h
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\region.h
+	"wx/generic/region.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\region.h
+	"wx/list.h"
+	"wx/os2/private.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\validate.h
+	"wx/defs.h"
+	"wx/event.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\accel.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/generic/accel.h"
+	"wx/msw/accel.h"
+	"wx/motif/accel.h"
+	"wx/gtk/accel.h"
+	"wx/gtk1/accel.h"
+	"wx/osx/accel.h"
+	"wx/generic/accel.h"
+	"wx/os2/accel.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\generic\accel.h
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\accel.h
+
+1323888240 c:\dev\wxwidgets\include\wx\motif\accel.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/event.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk\accel.h
+	"wx/generic/accel.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk1\accel.h
+	"wx/generic/accel.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\accel.h
+	"wx/string.h"
+	"wx/event.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\accel.h
+	"wx/object.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\access.h
+	"wx/defs.h"
+	"wx/variant.h"
+	"wx/msw/ole/access.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\ole\access.h
+
+1323888240 c:\dev\wxwidgets\include\wx\palmos\window.h
+	"wx/hash.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\window.h
+	"wx/settings.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\settings.h
+	"wx/colour.h"
+	"wx/font.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\motif\window.h
+	"wx/region.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk\window.h
+	"wx/dynarray.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk1\window.h
+
+1323888240 c:\dev\wxwidgets\include\wx\x11\window.h
+	"wx/region.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\mgl\window.h
+	"wx/font.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\dfb\window.h
+	"wx/dfb/dfbptr.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\window.h
+	"wx/brush.h"
+	"wx/dc.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/palmos/brush.h"
+	"wx/msw/brush.h"
+	"wx/x11/brush.h"
+	"wx/gtk/brush.h"
+	"wx/gtk1/brush.h"
+	"wx/mgl/brush.h"
+	"wx/dfb/brush.h"
+	"wx/osx/brush.h"
+	"wx/cocoa/brush.h"
+	"wx/os2/brush.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\palmos\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\brush.h
+
+1323888240 c:\dev\wxwidgets\include\wx\x11\brush.h
+	"wx/gdiobj.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk\brush.h
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk1\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\mgl\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\dfb\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\brush.h
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\dc.h
+	"wx/object.h"
+	"wx/intl.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/bitmap.h"
+	"wx/brush.h"
+	"wx/pen.h"
+	"wx/palette.h"
+	"wx/dynarray.h"
+	"wx/math.h"
+	"wx/image.h"
+	"wx/region.h"
+	"wx/affinematrix2d.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/palmos/pen.h"
+	"wx/msw/pen.h"
+	"wx/x11/pen.h"
+	"wx/gtk/pen.h"
+	"wx/gtk1/pen.h"
+	"wx/mgl/pen.h"
+	"wx/dfb/pen.h"
+	"wx/osx/pen.h"
+	"wx/cocoa/pen.h"
+	"wx/os2/pen.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\palmos\pen.h
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+	"wx/colour.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\msw\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\x11\pen.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk\pen.h
+
+1323888240 c:\dev\wxwidgets\include\wx\gtk1\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\mgl\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\dfb\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\osx\pen.h
+	"wx/gdiobj.h"
+	"wx/colour.h"
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\pen.h
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\affinematrix2d.h
+	"wx/defs.h"
+	"wx/affinematrix2dbase.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\affinematrix2dbase.h
+	"wx/defs.h"
+	"wx/geometry.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\geometry.h
+	"wx/defs.h"
+	"wx/utils.h"
+	"wx/gdicmn.h"
+	"wx/math.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\window.h
+	"wx/cocoa/NSView.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\nsview.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\cocoa\objcassociate.h
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\window.h
+	<os2.h>
+	"wx/hash.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\univ\window.h
+	"wx/bitmap.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\meta\implicitconversion.h
+	"wx/defs.h"
+	"wx/meta/if.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\platinfo.h
+	"wx/string.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\scopeguard.h
+	"wx/defs.h"
+	"wx/except.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\except.h
+	"wx/defs.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\meta\movable.h
+	"wx/meta/pod.h"
+	"wx/string.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\meta\pod.h
+	"wx/defs.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\os2\tls.h
+	"wx/os2/private.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\unix\tls.h
+	<pthread.h>
+
+1323888240 c:\dev\wxwidgets\include\wx\crt.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrt.h"
+	"wx/wxcrtvararg.h"
+
+1323888240 c:\dev\wxwidgets\include\wx\wxcrtvararg.h
+	"wx/wxcrt.h"
+	"wx/strvararg.h"
+	"wx/string.h"
+	<stdarg.h>
+
+1342544722 source:c:\users\steffen\projekte\mingw\rushlib\test\objectarray_test.cpp
+	"test.h"
+	<rush/objectarray.h>
+	<rush/system.h>
+	<rush/random.h>
+	<stdlib.h>
+
+1349615066 c:\users\steffen\projekte\mingw\rushlib\include\rush\objectarray.h
+	<rush/config.h>
+	<rush/buildinexpect.h>
+	<string.h>
+	<rush/comparer.h>
+	<rush/objectarrayflags.h>
+
+1349614653 c:\users\steffen\projekte\mingw\rushlib\include\rush\comparer.h
+	<rush/config.h>
+
+1343375798 source:c:\users\steffen\projekte\mingw\rushlib\test\testrandom.cpp
+	"unittest.h"
+
+1343739837 c:\users\steffen\projekte\mingw\rushlib\test\unittest.h
+	<stdio.h>
+	<rush/rush.h>
+	"unittestresult.h"
+
+1343333949 c:\users\steffen\projekte\mingw\rushlib\include\rush\rush.h
+	<rush/array.h>
+	<rush/bitarray.h>
+	<rush/buildinexpect.h>
+	<rush/callback.h>
+	<rush/comparer.h>
+	<rush/console.h>
+	<rush/convert.h>
+	<rush/dictionary.h>
+	<rush/list.h>
+	<rush/log.h>
+	<rush/macros.h>
+	<rush/mathevaluation.h>
+	<rush/memory.h>
+	<rush/objectarray.h>
+	<rush/objectdeque.h>
+	<rush/objectqueue.h>
+	<rush/objectstack.h>
+	<rush/parser.h>
+	<rush/priorityqueue.h>
+	<rush/random.h>
+	<rush/rect.h>
+	<rush/reverselist.h>
+	<rush/stack.h>
+	<rush/string.h>
+	<rush/stringarray.h>
+	<rush/system.h>
+	<rush/vector.h>
+
+1343220264 c:\users\steffen\projekte\mingw\rushlib\include\rush\callback.h
+	<rush/config.h>
+
+1343330163 c:\users\steffen\projekte\mingw\rushlib\include\rush\console.h
+	<rush/config.h>
+	<rush/string.h>
+
+1343220382 c:\users\steffen\projekte\mingw\rushlib\include\rush\dictionary.h
+	<rush/config.h>
+	<rush/buildinexpect.h>
+
+1343376623 c:\users\steffen\projekte\mingw\rushlib\include\rush\list.h
+	<rush/config.h>
+	<rush/macros.h>
+
+1343220687 c:\users\steffen\projekte\mingw\rushlib\include\rush\priorityqueue.h
+	<rush/config.h>
+
+1342617804 c:\users\steffen\projekte\mingw\rushlib\include\rush\queue.h
+	<rush/config.h>
+
+1343220741 c:\users\steffen\projekte\mingw\rushlib\include\rush\rect.h
+	<rush/config.h>
+
+1343220789 c:\users\steffen\projekte\mingw\rushlib\include\rush\reverselist.h
+	<rush/config.h>
+
+1346518499 c:\users\steffen\projekte\mingw\rushlib\include\rush\stack.h
+	<rush/config.h>
+
+1343221454 c:\users\steffen\projekte\mingw\rushlib\test\unittestresult.h
+	<rush/string.h>
+
+1342629873 source:c:\users\steffen\projekte\mingw\rushlib\test\testprimitivearray.cpp
+	"unittest.h"
+
+1343302866 source:c:\users\steffen\projekte\mingw\rushlib\test\testparser.cpp
+	"unittest.h"
+	<stdlib.h>
+
+1343221752 source:c:\users\steffen\projekte\mingw\rushlib\test\testobjectstack.cpp
+	"unittest.h"
+
+1343374903 source:c:\users\steffen\projekte\mingw\rushlib\test\testconvert.cpp
+	"unittest.h"
+
+1343312168 source:c:\users\steffen\projekte\mingw\rushlib\test\teststringarray.cpp
+	"unittest.h"
+
+1343340691 source:c:\users\steffen\projekte\mingw\rushlib\test\testvector.cpp
+	"unittest.h"
+
+1343310968 source:c:\users\steffen\projekte\mingw\rushlib\src\console.cpp
+	<rush/console.h>
+	<rush/system.h>
+	<rush/log.h>
+	<stdarg.h>
+	<stdio.h>
+	<windows.h>
+
+1343221801 source:c:\users\steffen\projekte\mingw\rushlib\test\testobjectarray.cpp
+	"unittest.h"
+
+1343754216 source:c:\users\steffen\projekte\mingw\rushlib\test\teststring.cpp
+	"unittest.h"
+
+1343739828 source:c:\users\steffen\projekte\mingw\rushlib\test\unittest.cpp
+	"unittest.h"
+
+1343220585 c:\users\steffen\projekte\mingw\rushlib\include\rush\objectstack.h
+	<rush/config.h>
+
+1346518549 c:\users\steffen\projekte\mingw\rushlib\include\rush\array.h
+	<rush/config.h>
+	<rush/buildinexpect.h>
+	<rush/log.h>
+	<string.h>
+
+1343375361 source:c:\users\steffen\projekte\mingw\rushlib\test\testlist.cpp
+	"unittest.h"
+	<list>
+
+1364113242 source:c:\users\steffen\projekte\mingw\rushlib\test\testmathevaluation.cpp
+	"unittest.h"
+	<rush/mathevaluation.h>
+	<stdlib.h>
+	<math.h>
+
+1349613735 c:\users\steffen\projekte\mingw\rushlib\include\rush\mathevaluation.h
+	<rush/config.h>
+	<rush/string.h>
+	<rush/objectarray.h>
+	<rush/stringarray.h>
+	<rush/mathopcode.h>
+	<rush/mathtokenizer.h>
+
+1363463477 source:c:\users\steffen\projekte\mingw\rushlib\src\mathevaluation.cpp
+	<rush/mathevaluation.h>
+	<rush/console.h>
+	<rush/parser.h>
+	<rush/stack.h>
+	"mathdefaultfunctions.h"
+	"mathvariable.h"
+
+1343201753 source:c:\users\steffen\projekte\mingw\rushlib\src\mathevaluationtokenizer.cpp
+	"mathevaluationtokenizer.h"
+	<rush/console.h>
+
+1343201687 c:\users\steffen\projekte\mingw\rushlib\src\mathevaluationtokenizer.h
+	<rush/string.h>
+	<rush/stringarray.h>
+	<rush/objectarray.h>
+
+1343388334 c:\users\steffen\projekte\mingw\rushlib\include\rush\objectqueue.h
+	<rush/config.h>
+
+1343311564 source:c:\users\steffen\projekte\mingw\rushlib\test\testobjectqueue.cpp
+	"unittest.h"
+
+1343221295 c:\users\steffen\projekte\mingw\rushlib\include\rush\memory.h
+	<rush/config.h>
+	<rush/string.h>
+	<new>
+
+1343221283 source:c:\users\steffen\projekte\mingw\rushlib\src\memory.cpp
+	<rush/memory.h>
+	<rush/console.h>
+	<stdio.h>
+	<stdlib.h>
+
+1343220553 c:\users\steffen\projekte\mingw\rushlib\include\rush\objectdeque.h
+	<rush/config.h>
+
+1343303040 source:c:\users\steffen\projekte\mingw\rushlib\test\testobjectdeque.cpp
+	"unittest.h"
+
+1343376192 c:\users\steffen\projekte\mingw\rushlib\src\mathdefaultfunctions.h
+	<rush/mathevaluation.h>
+	<math.h>
+
+1343384981 c:\users\steffen\projekte\mingw\rushlib\include\rush\mathopcode.h
+	<rush/config.h>
+	<rush/string.h>
+	<rush/objectarray.h>
+	<rush/objectdeque.h>
+
+1343221247 c:\users\steffen\projekte\mingw\rushlib\src\mathvariable.h
+
+1349614966 source:c:\users\steffen\projekte\mingw\rushlib\src\mathopcode.cpp
+	<rush/mathopcode.h>
+	<rush/console.h>
+
+1343495397 source:c:\users\steffen\projekte\mingw\rushlib\src\mathtokenizer.cpp
+	<rush/mathtokenizer.h>
+	<rush/console.h>
+
+1343221559 c:\users\steffen\projekte\mingw\rushlib\src\mathtokenizer.h
+	<rush/string.h>
+	<rush/stringarray.h>
+	<rush/objectarray.h>
+
+1343220489 c:\users\steffen\projekte\mingw\rushlib\include\rush\mathtokenizer.h
+	<rush/config.h>
+	<rush/string.h>
+	<rush/stringarray.h>
+	<rush/objectarray.h>
+
+1343221688 source:c:\users\steffen\projekte\mingw\rushlib\test\testarray.cpp
+	"unittest.h"
+
+1343311321 c:\users\steffen\projekte\mingw\rushlib\include\rush\logtarget.h
+	<rush/config.h>
+	<rush/string.h>
+
+1343311325 source:c:\users\steffen\projekte\mingw\rushlib\src\logtarget.cpp
+	<rush/logtarget.h>
+	<rush/system.h>
+	<rush/path.h>
+	<libintl.h>
+	<stdio.h>
+	<stdlib.h>
+
+1343309017 c:\users\steffen\projekte\mingw\rushlib\include\rush\path.h
+	<rush/config.h>
+
+1343376688 c:\users\steffen\projekte\mingw\rushlib\include\rush\bitarray.h
+	<rush/config.h>
+	<string.h>
+
+1343334189 source:c:\users\steffen\projekte\mingw\rushlib\src\bitarray.cpp
+	<rush/bitarray.h>
+	<rush/buildinexpect.h>
+
+1343588105 c:\users\steffen\projekte\mingw\rushlib\include\rush\vector3.h
+	<rush/config.h>
+	<rush/macros.h>
+
+1343587736 c:\users\steffen\projekte\mingw\rushlib\include\rush\objectarrayflags.h
+	<rush/config.h>
+
+1349615186 source:c:\users\steffen\projekte\mingw\rushlib\src\version.cpp
+	<rush/version.h>
+
+1343741066 c:\users\steffen\projekte\mingw\rushlib\include\rush\version.h
+	<rush/config.h>
+	<rush/string.h>
+
+1343741857 source:c:\users\steffen\projekte\mingw\rushlib\test\testversion.cpp
+	"unittest.h"
+
+1343826870 source:c:\users\steffen\projekte\mingw\rushlib\src\backtrace.cpp
+	<rush/backtrace.h>
+	<stdio.h>
+	<stdlib.h>
+
+1343825026 c:\users\steffen\projekte\mingw\rushlib\include\rush\backtrace.h
+	<rush/config.h>
+	<rush/string.h>
+
+1349607601 source:c:\users\steffen\projekte\mingw\rushlib\src\preprocessor.cpp
+
+1343826870 source:e:\projects cpp\rushlib\src\backtrace.cpp
+	<rush/backtrace.h>
+	<stdio.h>
+	<stdlib.h>
+
+1343825026 e:\projects cpp\rushlib\include\rush\backtrace.h
+	<rush/config.h>
+	<rush/string.h>
+
+1388835052 e:\projects cpp\rushlib\include\rush\config.h
+	<rush/memory.h>
+
+1388835142 e:\projects cpp\rushlib\include\rush\memory.h
+	<rush/config.h>
+	<rush/string.h>
+	<new>
+
+1343754193 e:\projects cpp\rushlib\include\rush\string.h
+	<rush/config.h>
+	<string.h>
+	<stdarg.h>
+	<string>
+	<iostream>
+	<wx/string.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\string.h
+	"wx/defs.h"
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	<stdarg.h>
+	<limits.h>
+	<stdlib.h>
+	<strings.h>
+	"wx/wxcrtbase.h"
+	"wx/strvararg.h"
+	"wx/buffer.h"
+	"wx/strconv.h"
+	"wx/stringimpl.h"
+	"wx/stringops.h"
+	"wx/unichar.h"
+	"wx/tls.h"
+	"wx/iosfwrap.h"
+	"wx/crt.h"
+
+1388180830 e:\libraries\wxwidgets\include\wx\defs.h
+	"wx/platform.h"
+	"wx/version.h"
+	"wx/dlimpexp.h"
+	<stddef.h>
+	"wx/debug.h"
+	<sys/types.h>
+	<sys/types.h>
+	"wx/windowid.h"
+	<unistd.h>
+	"wx/msw/winundef.h"
+	"wx/features.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\platform.h
+	<stddef.h>
+	<unistd.h>
+	<TargetConditionals.h>
+	<AvailabilityMacros.h>
+	"wx/osx/config_xcode.h"
+	"wx/setup.h"
+	"wx/setup_gccxml.h"
+	"wx/msw/wince/libraries.h"
+	"wx/msw/libraries.h"
+	"wx/msw/gccpriv.h"
+	<TargetConditionals.h>
+	<AvailabilityMacros.h>
+	"wx/chkconf.h"
+	"wx/palmos/missing.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\config_xcode.h
+
+1331550418 e:\libraries\wxwidgets\include\wx\setup.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\setup_gccxml.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\wince\libraries.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\libraries.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\gccpriv.h
+	<_mingw.h>
+	<w32api.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\chkconf.h
+	"wx/palmos/chkconf.h"
+	"wx/msw/wince/chkconf.h"
+	"wx/msw/chkconf.h"
+	"wx/gtk/chkconf.h"
+	"wx/cocoa/chkconf.h"
+	"wx/osx/chkconf.h"
+	"wx/os2/chkconf.h"
+	"wx/mgl/chkconf.h"
+	"wx/dfb/chkconf.h"
+	"wx/motif/chkconf.h"
+	"wx/x11/chkconf.h"
+	"wx/unix/chkconf.h"
+	"wx/univ/chkconf.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\palmos\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\wince\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\chkconf.h
+	"wx/osx/iphone/chkconf.h"
+	"wx/osx/carbon/chkconf.h"
+	"wx/osx/cocoa/chkconf.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\iphone\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\carbon\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\cocoa\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\mgl\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\dfb\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\motif\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\x11\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\unix\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\univ\chkconf.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\palmos\missing.h
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<PalmTypes.h>
+	<MemoryMgr.h>
+	<StringMgr.h>
+	<UIResources.h>
+	<ErrorMgr.h>
+	<DataMgr.h>
+	<wchar.h>
+	<unistd.h>
+	<time.h>
+	<StatusBar.h>
+	<Loader.h>
+	<PalmTypesCompatibility.h>
+	<PenInputMgr.h>
+	"sections.h"
+	"pfall.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\version.h
+	"wx/cpp.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\cpp.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\dlimpexp.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\debug.h
+	<assert.h>
+	<limits.h>
+	"wx/chartype.h"
+	"wx/cpp.h"
+	"wx/dlimpexp.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\chartype.h
+	"wx/platform.h"
+	<sys/types.h>
+	<wchar.h>
+	<wcstr.h>
+	<stdlib.h>
+	<widec.h>
+	<ctype.h>
+	<stddef.h>
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	<tchar.h>
+	<ctype.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\windowid.h
+
+1343729036 e:\libraries\wxwidgets\include\wx\msw\winundef.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\features.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\wxcrtbase.h
+	"wx/chartype.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<wchar.h>
+	<wctype.h>
+	<time.h>
+	<io.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\strvararg.h
+	"wx/platform.h"
+	"wx/cpp.h"
+	"wx/chartype.h"
+	"wx/strconv.h"
+	"wx/buffer.h"
+	"wx/unichar.h"
+	<type_traits>
+	<type_traits>
+	<tr1/type_traits>
+	"wx/stringimpl.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\strconv.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/buffer.h"
+	"typeinfo.h"
+	<stdlib.h>
+	"wx/fontenc.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\buffer.h
+	"wx/chartype.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\typeinfo.h
+	"wx/defs.h"
+	<typeinfo>
+	<string.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\fontenc.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\unichar.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\stringimpl.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+	"wx/beforestd.h"
+	<string>
+	"wx/afterstd.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\beforestd.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\afterstd.h
+	"wx/msw/winundef.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\stringops.h
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+	"wx/unichar.h"
+	"wx/buffer.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\tls.h
+	"wx/defs.h"
+	"wx/msw/tls.h"
+	"wx/os2/tls.h"
+	"wx/unix/tls.h"
+	<stdlib.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\tls.h
+	"wx/msw/wrapwin.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\wrapwin.h
+	"wx/platform.h"
+	<winsock2.h>
+	<windows.h>
+	"wx/msw/winundef.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\thread.h
+	"wx/defs.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\vector.h
+	"wx/defs.h"
+	<vector>
+	<algorithm>
+	"wx/utils.h"
+	"wx/scopeguard.h"
+	"wx/meta/movable.h"
+	"wx/meta/if.h"
+	"wx/beforestd.h"
+	<new>
+	"wx/afterstd.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\utils.h
+	"wx/object.h"
+	"wx/list.h"
+	"wx/filefn.h"
+	"wx/hashmap.h"
+	"wx/versioninfo.h"
+	"wx/meta/implicitconversion.h"
+	"wx/gdicmn.h"
+	"wx/mousestate.h"
+	"wx/longlong.h"
+	"wx/platinfo.h"
+	<direct.h>
+	<dirent.h>
+	<unistd.h>
+	<stdio.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\object.h
+	"wx/memory.h"
+	"wx/xti.h"
+	"wx/rtti.h"
+	"wx/xti2.h"
+	"wx/msw/msvcrt.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\memory.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/msgout.h"
+	<stddef.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\msgout.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/strvararg.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\xti.h
+	"wx/defs.h"
+	"wx/xtitypes.h"
+	"wx/xtihandler.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\xtitypes.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/flags.h"
+	"wx/intl.h"
+	"wx/log.h"
+	<typeinfo>
+
+1323888240 e:\libraries\wxwidgets\include\wx\hashmap.h
+	"wx/string.h"
+	"wx/wxcrt.h"
+	<unordered_map>
+	<tr1/unordered_map>
+	<ext/hash_map>
+	<hash_map>
+	<stddef.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\wxcrt.h
+	"wx/wxcrtbase.h"
+	"wx/string.h"
+	<string.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\arrstr.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/dynarray.h"
+	"wx/beforestd.h"
+	<iterator>
+	"wx/afterstd.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\dynarray.h
+	"wx/defs.h"
+	"wx/beforestd.h"
+	<vector>
+	<algorithm>
+	"wx/afterstd.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\flags.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\intl.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/translation.h"
+	"wx/fontenc.h"
+	"wx/language.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\translation.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/buffer.h"
+	"wx/language.h"
+	"wx/hashmap.h"
+	"wx/strconv.h"
+	"wx/scopedptr.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\language.h
+	"wx/defs.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\scopedptr.h
+	"wx/defs.h"
+	"wx/checkeddelete.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\checkeddelete.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\log.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/strvararg.h"
+	"wx/arrstr.h"
+	<time.h>
+	"wx/dynarray.h"
+	"wx/hashmap.h"
+	"wx/thread.h"
+	"wx/iosfwrap.h"
+	"wx/generic/logg.h"
+	"wx/cocoa/log.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\iosfwrap.h
+	<iostream.h>
+	<iosfwd>
+	"wx/msw/winundef.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\generic\logg.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\log.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\xtihandler.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\rtti.h
+	"wx/memory.h"
+	"wx/flags.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\xti2.h
+	"wx/xtiprop.h"
+	"wx/xtictor.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\xtiprop.h
+	"wx/defs.h"
+	"wx/xti.h"
+	"wx/any.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\any.h
+	"wx/defs.h"
+	<new>
+	"wx/string.h"
+	"wx/meta/if.h"
+	"wx/typeinfo.h"
+	"wx/list.h"
+	"wx/datetime.h"
+	"wx/variant.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\meta\if.h
+	"wx/defs.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\list.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/beforestd.h"
+	<algorithm>
+	<iterator>
+	<list>
+	"wx/afterstd.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\datetime.h
+	"wx/defs.h"
+	"wx/msw/wince/time.h"
+	<time.h>
+	<limits.h>
+	"wx/longlong.h"
+	"wx/anystr.h"
+	"wx/dynarray.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\wince\time.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\longlong.h
+	"wx/defs.h"
+	"wx/string.h"
+	<limits.h>
+	"wx/iosfwrap.h"
+	<limits>
+	"wx/strvararg.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\anystr.h
+	"wx/string.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\variant.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/arrstr.h"
+	"wx/list.h"
+	"wx/cpp.h"
+	"wx/longlong.h"
+	"wx/datetime.h"
+	"wx/iosfwrap.h"
+	"wx/any.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\xtictor.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\msvcrt.h
+	<stdlib.h>
+	<crtdbg.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\filefn.h
+	"wx/list.h"
+	"wx/arrstr.h"
+	"wx/msw/wince/time.h"
+	"wx/msw/private.h"
+	<time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<utime.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stat.h>
+	<unistd.h>
+	<unix.h>
+	<process.h>
+	"wx/os2/private.h"
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	<unistd.h>
+	<dirent.h>
+	<direct.h>
+	<dos.h>
+	<io.h>
+	<direct.h>
+	<dos.h>
+	<io.h>
+	<io.h>
+	<unistd.h>
+	<dir.h>
+	<fcntl.h>
+	<sys/types.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\private.h
+	"wx/msw/wrapwin.h"
+	"wx/msw/microwin.h"
+	"wx/log.h"
+	"wx/window.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\microwin.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\window.h
+	"wx/event.h"
+	"wx/list.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/region.h"
+	"wx/utils.h"
+	"wx/intl.h"
+	"wx/validate.h"
+	"wx/palette.h"
+	"wx/accel.h"
+	"wx/access.h"
+	"wx/palmos/window.h"
+	"wx/msw/window.h"
+	"wx/motif/window.h"
+	"wx/gtk/window.h"
+	"wx/gtk1/window.h"
+	"wx/x11/window.h"
+	"wx/mgl/window.h"
+	"wx/dfb/window.h"
+	"wx/osx/window.h"
+	"wx/cocoa/window.h"
+	"wx/os2/window.h"
+	"wx/univ/window.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\event.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/object.h"
+	"wx/clntdata.h"
+	"wx/gdicmn.h"
+	"wx/cursor.h"
+	"wx/mousestate.h"
+	"wx/dynarray.h"
+	"wx/thread.h"
+	"wx/tracker.h"
+	"wx/typeinfo.h"
+	"wx/any.h"
+	"wx/meta/convertible.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\clntdata.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gdicmn.h
+	"wx/defs.h"
+	"wx/list.h"
+	"wx/string.h"
+	"wx/fontenc.h"
+	"wx/hashmap.h"
+	"wx/math.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\math.h
+	"wx/defs.h"
+	<math.h>
+	<float.h>
+	<ieeefp.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\cursor.h
+	"wx/defs.h"
+	"wx/palmos/cursor.h"
+	"wx/msw/cursor.h"
+	"wx/motif/cursor.h"
+	"wx/gtk/cursor.h"
+	"wx/gtk1/cursor.h"
+	"wx/x11/cursor.h"
+	"wx/mgl/cursor.h"
+	"wx/dfb/cursor.h"
+	"wx/osx/cursor.h"
+	"wx/cocoa/cursor.h"
+	"wx/os2/cursor.h"
+	"wx/utils.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\palmos\cursor.h
+	"wx/palmos/gdiimage.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\palmos\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gdiobj.h
+	"wx/object.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\cursor.h
+	"wx/msw/gdiimage.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\motif\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk1\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/image.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\image.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/stream.h"
+	"wx/variant.h"
+	"wx/imagbmp.h"
+	"wx/imagpng.h"
+	"wx/imaggif.h"
+	"wx/imagpcx.h"
+	"wx/imagjpeg.h"
+	"wx/imagtga.h"
+	"wx/imagtiff.h"
+	"wx/imagpnm.h"
+	"wx/imagxpm.h"
+	"wx/imagiff.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\stream.h
+	"wx/defs.h"
+	<stdio.h>
+	"wx/object.h"
+	"wx/string.h"
+	"wx/filefn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\imagbmp.h
+	"wx/image.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\imagpng.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\versioninfo.h
+	"wx/string.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\imaggif.h
+	"wx/image.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\imagpcx.h
+	"wx/image.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\imagjpeg.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\imagtga.h
+	"wx/image.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\imagtiff.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\imagpnm.h
+	"wx/image.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\imagxpm.h
+	"wx/image.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\imagiff.h
+	"wx/image.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\x11\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\colour.h
+	"wx/defs.h"
+	"wx/gdiobj.h"
+	"wx/variant.h"
+	"wx/generic/colour.h"
+	"wx/msw/colour.h"
+	"wx/motif/colour.h"
+	"wx/gtk/colour.h"
+	"wx/gtk1/colour.h"
+	"wx/generic/colour.h"
+	"wx/generic/colour.h"
+	"wx/x11/colour.h"
+	"wx/osx/colour.h"
+	"wx/cocoa/colour.h"
+	"wx/os2/colour.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\generic\colour.h
+	"wx/object.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\colour.h
+	"wx/object.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\motif\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk\colour.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk1\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\palette.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/palmos/palette.h"
+	"wx/msw/palette.h"
+	"wx/x11/palette.h"
+	"wx/generic/paletteg.h"
+	"wx/mgl/palette.h"
+	"wx/osx/palette.h"
+	"wx/os2/palette.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\palmos\palette.h
+	"wx/gdiobj.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\palette.h
+	"wx/gdiobj.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\x11\palette.h
+	"wx/list.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\generic\paletteg.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\mgl\palette.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\palette.h
+	"wx/gdiobj.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\palette.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\private.h
+	<os2.h>
+	<os2def.h>
+	<X11/Xmd.h>
+	<Xm/VendorSP.h>
+	<types.h>
+	<tcpustd.h>
+	<sys/time.h>
+	"wx/dlimpexp.h"
+	"wx/fontenc.h"
+	"wx/thread.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\x11\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\colour.h
+	"wx/osx/core/colour.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\core\colour.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/osx/core/cfref.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\core\cfref.h
+	<unistd.h>
+	<AvailabilityMacros.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\colour.h
+	"wx/object.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\mgl\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\dfb\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\cursor.h
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\bitmap.h
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+	"wx/image.h"
+	"wx/variant.h"
+	"wx/palmos/bitmap.h"
+	"wx/msw/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/gtk/bitmap.h"
+	"wx/gtk1/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/mgl/bitmap.h"
+	"wx/dfb/bitmap.h"
+	"wx/osx/bitmap.h"
+	"wx/cocoa/bitmap.h"
+	"wx/os2/bitmap.h"
+	"wx/generic/mask.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\palmos\bitmap.h
+	"wx/palmos/gdiimage.h"
+	"wx/gdicmn.h"
+	"wx/palette.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\bitmap.h
+	"wx/msw/gdiimage.h"
+	"wx/palette.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\x11\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk\bitmap.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk1\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\mgl\bitmap.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\dfb\bitmap.h
+	"wx/dfb/dfbptr.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\dfb\dfbptr.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\bitmap.h
+	"wx/palette.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\bitmap.h
+	"wx/palette.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\bitmap.h
+	"wx/os2/private.h"
+	"wx/os2/gdiimage.h"
+	"wx/gdicmn.h"
+	"wx/palette.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\generic\mask.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\cursor.h
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\cursor.h
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\mousestate.h
+	"wx/gdicmn.h"
+	"wx/kbdstate.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\kbdstate.h
+	"wx/defs.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\tracker.h
+	"wx/defs.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\meta\convertible.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\font.h
+	"wx/defs.h"
+	"wx/fontenc.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/palmos/font.h"
+	"wx/msw/font.h"
+	"wx/motif/font.h"
+	"wx/gtk/font.h"
+	"wx/gtk1/font.h"
+	"wx/x11/font.h"
+	"wx/mgl/font.h"
+	"wx/dfb/font.h"
+	"wx/osx/font.h"
+	"wx/cocoa/font.h"
+	"wx/os2/font.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\palmos\font.h
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\font.h
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\motif\font.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk\font.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk1\font.h
+	"wx/hash.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\hash.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\x11\font.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\mgl\font.h
+	"wx/hash.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\dfb\font.h
+	"wx/dfb/dfbptr.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\font.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\font.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\font.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\region.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/palmos/region.h"
+	"wx/msw/region.h"
+	"wx/gtk/region.h"
+	"wx/gtk1/region.h"
+	"wx/x11/region.h"
+	"wx/mgl/region.h"
+	"wx/dfb/region.h"
+	"wx/osx/region.h"
+	"wx/cocoa/region.h"
+	"wx/os2/region.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\palmos\region.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\region.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk\region.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk1\region.h
+	"wx/list.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\x11\region.h
+	"wx/list.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\mgl\region.h
+	"wx/list.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\dfb\region.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\region.h
+	"wx/osx/carbon/region.h"
+	"wx/generic/region.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\carbon\region.h
+	"wx/list.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\generic\region.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\region.h
+	"wx/generic/region.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\region.h
+	"wx/list.h"
+	"wx/os2/private.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\validate.h
+	"wx/defs.h"
+	"wx/event.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\accel.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/generic/accel.h"
+	"wx/msw/accel.h"
+	"wx/motif/accel.h"
+	"wx/gtk/accel.h"
+	"wx/gtk1/accel.h"
+	"wx/osx/accel.h"
+	"wx/generic/accel.h"
+	"wx/os2/accel.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\generic\accel.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\accel.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\motif\accel.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/event.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk\accel.h
+	"wx/generic/accel.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk1\accel.h
+	"wx/generic/accel.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\accel.h
+	"wx/string.h"
+	"wx/event.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\accel.h
+	"wx/object.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\access.h
+	"wx/defs.h"
+	"wx/variant.h"
+	"wx/msw/ole/access.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\ole\access.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\palmos\window.h
+	"wx/hash.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\window.h
+	"wx/settings.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\settings.h
+	"wx/colour.h"
+	"wx/font.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\motif\window.h
+	"wx/region.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk\window.h
+	"wx/dynarray.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk1\window.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\x11\window.h
+	"wx/region.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\mgl\window.h
+	"wx/font.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\dfb\window.h
+	"wx/dfb/dfbptr.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\window.h
+	"wx/brush.h"
+	"wx/dc.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/palmos/brush.h"
+	"wx/msw/brush.h"
+	"wx/x11/brush.h"
+	"wx/gtk/brush.h"
+	"wx/gtk1/brush.h"
+	"wx/mgl/brush.h"
+	"wx/dfb/brush.h"
+	"wx/osx/brush.h"
+	"wx/cocoa/brush.h"
+	"wx/os2/brush.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\palmos\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\brush.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\x11\brush.h
+	"wx/gdiobj.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk\brush.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk1\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\mgl\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\dfb\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\brush.h
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\dc.h
+	"wx/object.h"
+	"wx/intl.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/bitmap.h"
+	"wx/brush.h"
+	"wx/pen.h"
+	"wx/palette.h"
+	"wx/dynarray.h"
+	"wx/math.h"
+	"wx/image.h"
+	"wx/region.h"
+	"wx/affinematrix2d.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/palmos/pen.h"
+	"wx/msw/pen.h"
+	"wx/x11/pen.h"
+	"wx/gtk/pen.h"
+	"wx/gtk1/pen.h"
+	"wx/mgl/pen.h"
+	"wx/dfb/pen.h"
+	"wx/osx/pen.h"
+	"wx/cocoa/pen.h"
+	"wx/os2/pen.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\palmos\pen.h
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+	"wx/colour.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\msw\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\x11\pen.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk\pen.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\gtk1\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\mgl\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\dfb\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\osx\pen.h
+	"wx/gdiobj.h"
+	"wx/colour.h"
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\pen.h
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\affinematrix2d.h
+	"wx/defs.h"
+	"wx/affinematrix2dbase.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\affinematrix2dbase.h
+	"wx/defs.h"
+	"wx/geometry.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\geometry.h
+	"wx/defs.h"
+	"wx/utils.h"
+	"wx/gdicmn.h"
+	"wx/math.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\window.h
+	"wx/cocoa/NSView.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\nsview.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\cocoa\objcassociate.h
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\window.h
+	<os2.h>
+	"wx/hash.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\univ\window.h
+	"wx/bitmap.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\meta\implicitconversion.h
+	"wx/defs.h"
+	"wx/meta/if.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\platinfo.h
+	"wx/string.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\scopeguard.h
+	"wx/defs.h"
+	"wx/except.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\except.h
+	"wx/defs.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\meta\movable.h
+	"wx/meta/pod.h"
+	"wx/string.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\meta\pod.h
+	"wx/defs.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\os2\tls.h
+	"wx/os2/private.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\unix\tls.h
+	<pthread.h>
+
+1323888240 e:\libraries\wxwidgets\include\wx\crt.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrt.h"
+	"wx/wxcrtvararg.h"
+
+1323888240 e:\libraries\wxwidgets\include\wx\wxcrtvararg.h
+	"wx/wxcrt.h"
+	"wx/strvararg.h"
+	"wx/string.h"
+	<stdarg.h>
+
+1343334189 source:e:\projects cpp\rushlib\src\bitarray.cpp
+	<rush/bitarray.h>
+	<rush/buildinexpect.h>
+
+1343376688 e:\projects cpp\rushlib\include\rush\bitarray.h
+	<rush/config.h>
+	<string.h>
+
+1343220238 e:\projects cpp\rushlib\include\rush\buildinexpect.h
+	<rush/config.h>
+
+1343310968 source:e:\projects cpp\rushlib\src\console.cpp
+	<rush/console.h>
+	<rush/system.h>
+	<rush/log.h>
+	<stdarg.h>
+	<stdio.h>
+	<windows.h>
+
+1343330163 e:\projects cpp\rushlib\include\rush\console.h
+	<rush/config.h>
+	<rush/string.h>
+
+1343304885 e:\projects cpp\rushlib\include\rush\system.h
+	<rush/config.h>
+	<rush/string.h>
+
+1343311122 e:\projects cpp\rushlib\include\rush\log.h
+	<rush/config.h>
+	<rush/string.h>
+	<rush/logtarget.h>
+	<stdarg.h>
+
+1388842883 e:\projects cpp\rushlib\include\rush\logtarget.h
+	<rush/config.h>
+	<rush/string.h>
+
+1349626518 source:e:\projects cpp\rushlib\src\convert.cpp
+	<rush/convert.h>
+
+1343374839 e:\projects cpp\rushlib\include\rush\convert.h
+	<rush/config.h>
+	<rush/string.h>
+
+1363463477 source:e:\projects cpp\rushlib\src\mathevaluation.cpp
+	<rush/mathevaluation.h>
+	<rush/console.h>
+	<rush/parser.h>
+	<rush/stack.h>
+	"mathdefaultfunctions.h"
+	"mathvariable.h"
+
+1388842918 e:\projects cpp\rushlib\include\rush\mathevaluation.h
+	<rush/config.h>
+	<rush/string.h>
+	<rush/objectarray.h>
+	<rush/stringarray.h>
+	<rush/mathopcode.h>
+	<rush/mathtokenizer.h>
+
+1349615066 e:\projects cpp\rushlib\include\rush\objectarray.h
+	<rush/config.h>
+	<rush/buildinexpect.h>
+	<string.h>
+	<rush/comparer.h>
+	<rush/objectarrayflags.h>
+
+1349614653 e:\projects cpp\rushlib\include\rush\comparer.h
+	<rush/config.h>
+
+1343587736 e:\projects cpp\rushlib\include\rush\objectarrayflags.h
+	<rush/config.h>
+
+1349613367 e:\projects cpp\rushlib\include\rush\stringarray.h
+	<rush/config.h>
+	<rush/string.h>
+
+1343384981 e:\projects cpp\rushlib\include\rush\mathopcode.h
+	<rush/config.h>
+	<rush/string.h>
+	<rush/objectarray.h>
+	<rush/objectdeque.h>
+
+1343220553 e:\projects cpp\rushlib\include\rush\objectdeque.h
+	<rush/config.h>
+
+1388835590 e:\projects cpp\rushlib\include\rush\mathtokenizer.h
+	<rush/config.h>
+	<rush/string.h>
+	<rush/stringarray.h>
+	<rush/objectarray.h>
+
+1343220605 e:\projects cpp\rushlib\include\rush\parser.h
+	<rush/config.h>
+	<rush/string.h>
+	<rush/array.h>
+
+1346518549 e:\projects cpp\rushlib\include\rush\array.h
+	<rush/config.h>
+	<rush/buildinexpect.h>
+	<rush/log.h>
+	<string.h>
+
+1346518499 e:\projects cpp\rushlib\include\rush\stack.h
+	<rush/config.h>
+
+1343376192 e:\projects cpp\rushlib\src\mathdefaultfunctions.h
+	<rush/mathevaluation.h>
+	<math.h>
+
+1343221247 e:\projects cpp\rushlib\src\mathvariable.h
+
+1391622632 source:e:\projects cpp\rushlib\src\log.cpp
+	<rush/log.h>
+	<stdio.h>
+
+1394475010 source:e:\projects cpp\rushlib\src\logtarget.cpp
+	<rush/logtarget.h>
+	<rush/system.h>
+	<rush/path.h>
+	<stdio.h>
+	<stdlib.h>
+
+1394474997 e:\projects cpp\rushlib\include\rush\path.h
+	<rush/config.h>
+	<wx/string.h>
+	<wx/arrstr.h>
+
+1349614966 source:e:\projects cpp\rushlib\src\mathopcode.cpp
+	<rush/mathopcode.h>
+	<rush/console.h>
+
+1343495397 source:e:\projects cpp\rushlib\src\mathtokenizer.cpp
+	<rush/mathtokenizer.h>
+	<rush/console.h>
+
+1388837569 source:e:\projects cpp\rushlib\src\memory.cpp
+	<rush/memory.h>
+	<rush/console.h>
+	<stdio.h>
+	<stdlib.h>
+
+1343302850 source:e:\projects cpp\rushlib\src\parser.cpp
+	<rush/parser.h>
+	<stdlib.h>
+	<math.h>
+
+1349607601 source:e:\projects cpp\rushlib\src\preprocessor.cpp
+
+1343375807 source:e:\projects cpp\rushlib\src\random.cpp
+	<rush/random.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1343308559 e:\projects cpp\rushlib\include\rush\random.h
+	<rush/config.h>
+
+1343333985 source:e:\projects cpp\rushlib\src\stringarray.cpp
+	<rush/stringarray.h>
+	<rush/log.h>
+	<rush/buildinexpect.h>
+	<rush/macros.h>
+
+1343220439 e:\projects cpp\rushlib\include\rush\macros.h
+	<rush/config.h>
+	<rush/log.h>
+
+1349615155 source:e:\projects cpp\rushlib\src\system.cpp
+	<rush/system.h>
+	<windows.h>
+
+1349615186 source:e:\projects cpp\rushlib\src\version.cpp
+	<rush/version.h>
+
+1343741066 e:\projects cpp\rushlib\include\rush\version.h
+	<rush/config.h>
+	<rush/string.h>
+
+1349500096 source:e:\projects cpp\rushlib\main.cpp
+	"test/unittest.h"
+
+1388836923 e:\projects cpp\rushlib\test\unittest.h
+	<stdio.h>
+	<rush/rush.h>
+	"unittestresult.h"
+
+1388837295 e:\projects cpp\rushlib\include\rush\rush.h
+	<rush/array.h>
+	<rush/bitarray.h>
+	<rush/buildinexpect.h>
+	<rush/callback.h>
+	<rush/comparer.h>
+	<rush/console.h>
+	<rush/convert.h>
+	<rush/dictionary.h>
+	<rush/list.h>
+	<rush/log.h>
+	<rush/macros.h>
+	<rush/mathevaluation.h>
+	<rush/memory.h>
+	<rush/objectarray.h>
+	<rush/objectdeque.h>
+	<rush/objectqueue.h>
+	<rush/objectstack.h>
+	<rush/parser.h>
+	<rush/path.h>
+	<rush/priorityqueue.h>
+	<rush/random.h>
+	<rush/rect.h>
+	<rush/reverselist.h>
+	<rush/stack.h>
+	<rush/string.h>
+	<rush/stringarray.h>
+	<rush/system.h>
+	<rush/vector.h>
+
+1343220264 e:\projects cpp\rushlib\include\rush\callback.h
+	<rush/config.h>
+
+1343220382 e:\projects cpp\rushlib\include\rush\dictionary.h
+	<rush/config.h>
+	<rush/buildinexpect.h>
+
+1343376623 e:\projects cpp\rushlib\include\rush\list.h
+	<rush/config.h>
+	<rush/macros.h>
+
+1376228921 e:\projects cpp\rushlib\include\rush\objectqueue.h
+	<rush/config.h>
+	<rush/buildinexpect.h>
+
+1343220585 e:\projects cpp\rushlib\include\rush\objectstack.h
+	<rush/config.h>
+
+1343220687 e:\projects cpp\rushlib\include\rush\priorityqueue.h
+	<rush/config.h>
+
+1343220741 e:\projects cpp\rushlib\include\rush\rect.h
+	<rush/config.h>
+
+1343220789 e:\projects cpp\rushlib\include\rush\reverselist.h
+	<rush/config.h>
+
+1343340755 e:\projects cpp\rushlib\include\rush\vector.h
+	<rush/vector2.h>
+	<rush/vector3.h>
+
+1343581011 e:\projects cpp\rushlib\include\rush\vector2.h
+	<rush/config.h>
+
+1343588105 e:\projects cpp\rushlib\include\rush\vector3.h
+	<rush/config.h>
+	<rush/macros.h>
+
+1343221454 e:\projects cpp\rushlib\test\unittestresult.h
+	<rush/string.h>
+
+1343221688 source:e:\projects cpp\rushlib\test\testarray.cpp
+	"unittest.h"
+
+1343374903 source:e:\projects cpp\rushlib\test\testconvert.cpp
+	"unittest.h"
+
+1343375361 source:e:\projects cpp\rushlib\test\testlist.cpp
+	"unittest.h"
+	<list>
+
+1388835369 source:e:\projects cpp\rushlib\test\testmathevaluation.cpp
+	"unittest.h"
+	<rush/mathevaluation.h>
+	<stdlib.h>
+	<math.h>
+
+1343221801 source:e:\projects cpp\rushlib\test\testobjectarray.cpp
+	"unittest.h"
+
+1343303040 source:e:\projects cpp\rushlib\test\testobjectdeque.cpp
+	"unittest.h"
+
+1343311564 source:e:\projects cpp\rushlib\test\testobjectqueue.cpp
+	"unittest.h"
+
+1343221752 source:e:\projects cpp\rushlib\test\testobjectstack.cpp
+	"unittest.h"
+
+1343302866 source:e:\projects cpp\rushlib\test\testparser.cpp
+	"unittest.h"
+	<stdlib.h>
+
+1343375798 source:e:\projects cpp\rushlib\test\testrandom.cpp
+	"unittest.h"
+
+1343754216 source:e:\projects cpp\rushlib\test\teststring.cpp
+	"unittest.h"
+
+1343312168 source:e:\projects cpp\rushlib\test\teststringarray.cpp
+	"unittest.h"
+
+1343340691 source:e:\projects cpp\rushlib\test\testvector.cpp
+	"unittest.h"
+
+1343741857 source:e:\projects cpp\rushlib\test\testversion.cpp
+	"unittest.h"
+
+1388931621 source:e:\projects cpp\rushlib\test\unittest.cpp
+	"unittest.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\string.h
+	"wx/defs.h"
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	<stdarg.h>
+	<limits.h>
+	<stdlib.h>
+	"wx/wxcrtbase.h"
+	"wx/strvararg.h"
+	"wx/buffer.h"
+	"wx/strconv.h"
+	"wx/stringimpl.h"
+	"wx/stringops.h"
+	"wx/unichar.h"
+	"wx/tls.h"
+	"wx/iosfwrap.h"
+	"wx/crt.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\defs.h
+	"wx/platform.h"
+	"wx/version.h"
+	"wx/dlimpexp.h"
+	<stddef.h>
+	"wx/debug.h"
+	<sys/types.h>
+	<sys/types.h>
+	"wx/windowid.h"
+	<unistd.h>
+	"wx/msw/winundef.h"
+	"wx/features.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\platform.h
+	<unistd.h>
+	<TargetConditionals.h>
+	<AvailabilityMacros.h>
+	"wx/osx/config_xcode.h"
+	"wx/android/config_android.h"
+	"wx/compiler.h"
+	"wx/setup.h"
+	"wx/msw/wince/libraries.h"
+	"wx/msw/libraries.h"
+	"wx/msw/gccpriv.h"
+	<TargetConditionals.h>
+	<AvailabilityMacros.h>
+	"wx/chkconf.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\config_xcode.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\android\config_android.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\compiler.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\wince\libraries.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\libraries.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\gccpriv.h
+	<_mingw.h>
+	<w32api.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\chkconf.h
+	"wx/msw/wince/chkconf.h"
+	"wx/msw/chkconf.h"
+	"wx/gtk/chkconf.h"
+	"wx/gtk/chkconf.h"
+	"wx/cocoa/chkconf.h"
+	"wx/osx/chkconf.h"
+	"wx/os2/chkconf.h"
+	"wx/dfb/chkconf.h"
+	"wx/motif/chkconf.h"
+	"wx/x11/chkconf.h"
+	"wx/android/chkconf.h"
+	"wx/unix/chkconf.h"
+	"wx/univ/chkconf.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\wince\chkconf.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\chkconf.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk\chkconf.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\chkconf.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\chkconf.h
+	"wx/osx/iphone/chkconf.h"
+	"wx/osx/carbon/chkconf.h"
+	"wx/osx/cocoa/chkconf.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\iphone\chkconf.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\carbon\chkconf.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\cocoa\chkconf.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\chkconf.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dfb\chkconf.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\motif\chkconf.h
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\x11\chkconf.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\android\chkconf.h
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\unix\chkconf.h
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\univ\chkconf.h
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\version.h
+	"wx/cpp.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cpp.h
+	"wx/compiler.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dlimpexp.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\debug.h
+	<assert.h>
+	<limits.h>
+	"wx/chartype.h"
+	"wx/cpp.h"
+	"wx/dlimpexp.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\chartype.h
+	"wx/platform.h"
+	<sys/types.h>
+	<wchar.h>
+	<wcstr.h>
+	<stdlib.h>
+	<widec.h>
+	<ctype.h>
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	<tchar.h>
+	<ctype.h>
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\windowid.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\winundef.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\features.h
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\wxcrtbase.h
+	"wx/chartype.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<wctype.h>
+	<time.h>
+	<io.h>
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\strvararg.h
+	"wx/platform.h"
+	"wx/cpp.h"
+	"wx/chartype.h"
+	"wx/strconv.h"
+	"wx/buffer.h"
+	"wx/unichar.h"
+	<type_traits>
+	<type_traits>
+	<tr1/type_traits>
+	"wx/stringimpl.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\strconv.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/buffer.h"
+	"typeinfo.h"
+	<stdlib.h>
+	"wx/fontenc.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\buffer.h
+	"wx/chartype.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\typeinfo.h
+	"wx/defs.h"
+	<typeinfo>
+	<string.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\fontenc.h
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\unichar.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\stringimpl.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+	"wx/beforestd.h"
+	<string>
+	"wx/afterstd.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\beforestd.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\afterstd.h
+	"wx/msw/winundef.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\stringops.h
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+	"wx/unichar.h"
+	"wx/buffer.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\tls.h
+	"wx/defs.h"
+	"wx/msw/tls.h"
+	"wx/os2/tls.h"
+	"wx/unix/tls.h"
+	<stdlib.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\tls.h
+	"wx/msw/wrapwin.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\wrapwin.h
+	"wx/platform.h"
+	<winsock2.h>
+	<windows.h>
+	"wx/msw/winundef.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\thread.h
+	"wx/defs.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\vector.h
+	"wx/defs.h"
+	<vector>
+	<algorithm>
+	"wx/scopeguard.h"
+	"wx/meta/movable.h"
+	"wx/meta/if.h"
+	"wx/beforestd.h"
+	<new>
+	"wx/afterstd.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\scopeguard.h
+	"wx/defs.h"
+	"wx/except.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\except.h
+	"wx/defs.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\meta\movable.h
+	"wx/meta/pod.h"
+	"wx/string.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\meta\pod.h
+	"wx/defs.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\meta\if.h
+	"wx/defs.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\tls.h
+	"wx/os2/private.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\private.h
+	<os2.h>
+	<os2def.h>
+	<X11/Xmd.h>
+	<Xm/VendorSP.h>
+	<types.h>
+	<tcpustd.h>
+	<sys/time.h>
+	"wx/dlimpexp.h"
+	"wx/fontenc.h"
+	"wx/thread.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\unix\tls.h
+	<pthread.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\iosfwrap.h
+	<iostream.h>
+	<iosfwd>
+	"wx/msw/winundef.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\crt.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrt.h"
+	"wx/wxcrtvararg.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\wxcrt.h
+	"wx/wxcrtbase.h"
+	"wx/string.h"
+	<string.h>
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\wxcrtvararg.h
+	"wx/wxcrt.h"
+	"wx/strvararg.h"
+	"wx/string.h"
+	<stdarg.h>
+
+1385250393 e:\libraries\wxwidgets-3.0\lib\wx\include\msw-unicode-static-3.0\wx\setup.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\arrstr.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/dynarray.h"
+	"wx/beforestd.h"
+	<iterator>
+	"wx/afterstd.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dynarray.h
+	"wx/defs.h"
+	"wx/beforestd.h"
+	<vector>
+	<algorithm>
+	"wx/afterstd.h"
+
+1388243527 source:e:\projects cpp\rushlib\src\string.cpp
+	<rush/string.h>
+	<rush/log.h>
+	<rush/buildinexpect.h>
+	<rush/macros.h>
+	<stdio.h>
+
+1394474933 source:e:\projects cpp\rushlib\src\path.cpp
+	<rush/path.h>
+	<wx/filename.h>
+	<rush/macros.h>
+	<rush/console.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\filename.h
+	"wx/arrstr.h"
+	"wx/filefn.h"
+	"wx/datetime.h"
+	"wx/intl.h"
+	"wx/longlong.h"
+	"wx/file.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\filefn.h
+	"wx/list.h"
+	"wx/arrstr.h"
+	"wx/msw/wince/time.h"
+	"wx/msw/private.h"
+	<time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<process.h>
+	"wx/os2/private.h"
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	<unistd.h>
+	<dirent.h>
+	<direct.h>
+	<dos.h>
+	<io.h>
+	<direct.h>
+	<dos.h>
+	<io.h>
+	<io.h>
+	<unistd.h>
+	<dir.h>
+	<fcntl.h>
+	<sys/types.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\list.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/vector.h"
+	"wx/beforestd.h"
+	<algorithm>
+	<iterator>
+	<list>
+	"wx/afterstd.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\object.h
+	"wx/memory.h"
+	"wx/xti.h"
+	"wx/rtti.h"
+	"wx/xti2.h"
+	"wx/msw/msvcrt.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\memory.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/msgout.h"
+	<stddef.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msgout.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/strvararg.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\xti.h
+	"wx/defs.h"
+	"wx/xtitypes.h"
+	"wx/xtihandler.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\xtitypes.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/flags.h"
+	"wx/intl.h"
+	"wx/log.h"
+	<typeinfo>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\hashmap.h
+	"wx/string.h"
+	"wx/wxcrt.h"
+	<unordered_map>
+	<tr1/unordered_map>
+	<ext/hash_map>
+	<hash_map>
+	<stddef.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\flags.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\intl.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/translation.h"
+	"wx/fontenc.h"
+	"wx/language.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\translation.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/buffer.h"
+	"wx/language.h"
+	"wx/hashmap.h"
+	"wx/strconv.h"
+	"wx/scopedptr.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\language.h
+	"wx/defs.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\scopedptr.h
+	"wx/defs.h"
+	"wx/checkeddelete.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\checkeddelete.h
+	"wx/cpp.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\log.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/string.h"
+	"wx/strvararg.h"
+	"wx/arrstr.h"
+	<time.h>
+	"wx/dynarray.h"
+	"wx/hashmap.h"
+	"wx/thread.h"
+	"wx/iosfwrap.h"
+	"wx/generic/logg.h"
+	"wx/cocoa/log.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\generic\logg.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\log.h
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\xtihandler.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\rtti.h
+	"wx/memory.h"
+	"wx/flags.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\xti2.h
+	"wx/xtiprop.h"
+	"wx/xtictor.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\xtiprop.h
+	"wx/defs.h"
+	"wx/xti.h"
+	"wx/any.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\any.h
+	"wx/defs.h"
+	<new>
+	"wx/string.h"
+	"wx/meta/if.h"
+	"wx/typeinfo.h"
+	"wx/list.h"
+	"wx/datetime.h"
+	"wx/variant.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\datetime.h
+	"wx/defs.h"
+	"wx/msw/wince/time.h"
+	<time.h>
+	<limits.h>
+	"wx/longlong.h"
+	"wx/anystr.h"
+	"wx/dynarray.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\wince\time.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\longlong.h
+	"wx/defs.h"
+	"wx/string.h"
+	<limits.h>
+	"wx/iosfwrap.h"
+	<limits>
+	"wx/strvararg.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\anystr.h
+	"wx/string.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\variant.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/arrstr.h"
+	"wx/list.h"
+	"wx/cpp.h"
+	"wx/longlong.h"
+	"wx/datetime.h"
+	"wx/iosfwrap.h"
+	"wx/any.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\xtictor.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\msvcrt.h
+	<stdlib.h>
+	<crtdbg.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\private.h
+	"wx/msw/wrapwin.h"
+	"wx/msw/microwin.h"
+	"wx/log.h"
+	"wx/window.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\microwin.h
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\window.h
+	"wx/event.h"
+	"wx/list.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/region.h"
+	"wx/utils.h"
+	"wx/intl.h"
+	"wx/validate.h"
+	"wx/palette.h"
+	"wx/accel.h"
+	"wx/access.h"
+	"wx/msw/window.h"
+	"wx/motif/window.h"
+	"wx/gtk/window.h"
+	"wx/gtk1/window.h"
+	"wx/x11/window.h"
+	"wx/dfb/window.h"
+	"wx/osx/window.h"
+	"wx/cocoa/window.h"
+	"wx/os2/window.h"
+	"wx/univ/window.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\event.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/object.h"
+	"wx/clntdata.h"
+	"wx/gdicmn.h"
+	"wx/cursor.h"
+	"wx/mousestate.h"
+	"wx/dynarray.h"
+	"wx/thread.h"
+	"wx/tracker.h"
+	"wx/typeinfo.h"
+	"wx/any.h"
+	"wx/meta/convertible.h"
+	"wx/meta/removeref.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\clntdata.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gdicmn.h
+	"wx/defs.h"
+	"wx/list.h"
+	"wx/string.h"
+	"wx/fontenc.h"
+	"wx/hashmap.h"
+	"wx/math.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\math.h
+	"wx/defs.h"
+	<math.h>
+	<cmath>
+	<float.h>
+	<ieeefp.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cursor.h
+	"wx/defs.h"
+	"wx/msw/cursor.h"
+	"wx/motif/cursor.h"
+	"wx/gtk/cursor.h"
+	"wx/gtk1/cursor.h"
+	"wx/x11/cursor.h"
+	"wx/dfb/cursor.h"
+	"wx/osx/cursor.h"
+	"wx/cocoa/cursor.h"
+	"wx/os2/cursor.h"
+	"wx/utils.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\cursor.h
+	"wx/msw/gdiimage.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gdiobj.h
+	"wx/object.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\motif\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk1\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/image.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\image.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/stream.h"
+	"wx/variant.h"
+	"wx/imagbmp.h"
+	"wx/imagpng.h"
+	"wx/imaggif.h"
+	"wx/imagpcx.h"
+	"wx/imagjpeg.h"
+	"wx/imagtga.h"
+	"wx/imagtiff.h"
+	"wx/imagpnm.h"
+	"wx/imagxpm.h"
+	"wx/imagiff.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\stream.h
+	"wx/defs.h"
+	<stdio.h>
+	"wx/object.h"
+	"wx/string.h"
+	"wx/filefn.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\imagbmp.h
+	"wx/image.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\imagpng.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\versioninfo.h
+	"wx/string.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\imaggif.h
+	"wx/image.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\imagpcx.h
+	"wx/image.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\imagjpeg.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\imagtga.h
+	"wx/image.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\imagtiff.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\imagpnm.h
+	"wx/image.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\imagxpm.h
+	"wx/image.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\imagiff.h
+	"wx/image.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\x11\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\colour.h
+	"wx/defs.h"
+	"wx/gdiobj.h"
+	"wx/variant.h"
+	"wx/msw/colour.h"
+	"wx/motif/colour.h"
+	"wx/gtk/colour.h"
+	"wx/gtk1/colour.h"
+	"wx/generic/colour.h"
+	"wx/x11/colour.h"
+	"wx/osx/colour.h"
+	"wx/cocoa/colour.h"
+	"wx/os2/colour.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\colour.h
+	"wx/object.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\motif\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk\colour.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk1\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\palette.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/msw/palette.h"
+	"wx/x11/palette.h"
+	"wx/generic/paletteg.h"
+	"wx/osx/palette.h"
+	"wx/os2/palette.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\palette.h
+	"wx/gdiobj.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\x11\palette.h
+	"wx/list.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\generic\paletteg.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\palette.h
+	"wx/gdiobj.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\palette.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\generic\colour.h
+	"wx/object.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\x11\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\colour.h
+	"wx/osx/core/colour.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\core\colour.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/osx/core/cfref.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\core\cfref.h
+	<unistd.h>
+	<AvailabilityMacros.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\colour.h
+	"wx/object.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dfb\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\cursor.h
+	"wx/bitmap.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\bitmap.h
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+	"wx/image.h"
+	"wx/variant.h"
+	"wx/msw/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/gtk/bitmap.h"
+	"wx/gtk1/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/dfb/bitmap.h"
+	"wx/osx/bitmap.h"
+	"wx/cocoa/bitmap.h"
+	"wx/os2/bitmap.h"
+	"wx/generic/mask.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\bitmap.h
+	"wx/msw/gdiimage.h"
+	"wx/math.h"
+	"wx/palette.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\x11\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk\bitmap.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk1\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dfb\bitmap.h
+	"wx/dfb/dfbptr.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dfb\dfbptr.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\bitmap.h
+	"wx/palette.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\bitmap.h
+	"wx/palette.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\bitmap.h
+	"wx/os2/private.h"
+	"wx/os2/gdiimage.h"
+	"wx/gdicmn.h"
+	"wx/palette.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\generic\mask.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\cursor.h
+	"wx/bitmap.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\cursor.h
+	"wx/bitmap.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\utils.h
+	"wx/object.h"
+	"wx/list.h"
+	"wx/filefn.h"
+	"wx/hashmap.h"
+	"wx/versioninfo.h"
+	"wx/meta/implicitconversion.h"
+	"wx/gdicmn.h"
+	"wx/mousestate.h"
+	"wx/longlong.h"
+	"wx/platinfo.h"
+	<direct.h>
+	<dirent.h>
+	<unistd.h>
+	<stdio.h>
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\meta\implicitconversion.h
+	"wx/defs.h"
+	"wx/meta/if.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\mousestate.h
+	"wx/gdicmn.h"
+	"wx/kbdstate.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\kbdstate.h
+	"wx/defs.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\platinfo.h
+	"wx/string.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\tracker.h
+	"wx/defs.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\meta\convertible.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\meta\removeref.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\font.h
+	"wx/defs.h"
+	"wx/fontenc.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/font.h"
+	"wx/motif/font.h"
+	"wx/gtk/font.h"
+	"wx/gtk1/font.h"
+	"wx/x11/font.h"
+	"wx/dfb/font.h"
+	"wx/osx/font.h"
+	"wx/cocoa/font.h"
+	"wx/os2/font.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\font.h
+	"wx/gdicmn.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\motif\font.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk\font.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk1\font.h
+	"wx/hash.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\hash.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\x11\font.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dfb\font.h
+	"wx/dfb/dfbptr.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\font.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\font.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\font.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\region.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/region.h"
+	"wx/gtk/region.h"
+	"wx/gtk1/region.h"
+	"wx/x11/region.h"
+	"wx/dfb/region.h"
+	"wx/osx/region.h"
+	"wx/cocoa/region.h"
+	"wx/os2/region.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\region.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk\region.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk1\region.h
+	"wx/list.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\x11\region.h
+	"wx/list.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dfb\region.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\region.h
+	"wx/osx/carbon/region.h"
+	"wx/generic/region.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\carbon\region.h
+	"wx/list.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\generic\region.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\region.h
+	"wx/generic/region.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\region.h
+	"wx/list.h"
+	"wx/os2/private.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\validate.h
+	"wx/defs.h"
+	"wx/event.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\accel.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/generic/accel.h"
+	"wx/msw/accel.h"
+	"wx/motif/accel.h"
+	"wx/gtk/accel.h"
+	"wx/gtk1/accel.h"
+	"wx/osx/accel.h"
+	"wx/generic/accel.h"
+	"wx/os2/accel.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\generic\accel.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\accel.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\motif\accel.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/event.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk\accel.h
+	"wx/generic/accel.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk1\accel.h
+	"wx/generic/accel.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\accel.h
+	"wx/string.h"
+	"wx/event.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\accel.h
+	"wx/object.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\access.h
+	"wx/defs.h"
+	"wx/variant.h"
+	"wx/msw/ole/access.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\ole\access.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\window.h
+	"wx/settings.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\settings.h
+	"wx/colour.h"
+	"wx/font.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\motif\window.h
+	"wx/region.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk\window.h
+	"wx/dynarray.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk1\window.h
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\x11\window.h
+	"wx/region.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dfb\window.h
+	"wx/dfb/dfbptr.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\window.h
+	"wx/brush.h"
+	"wx/dc.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/brush.h"
+	"wx/x11/brush.h"
+	"wx/gtk/brush.h"
+	"wx/gtk1/brush.h"
+	"wx/dfb/brush.h"
+	"wx/osx/brush.h"
+	"wx/cocoa/brush.h"
+	"wx/os2/brush.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\brush.h
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\x11\brush.h
+	"wx/gdiobj.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk\brush.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk1\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dfb\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\brush.h
+	"wx/bitmap.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dc.h
+	"wx/object.h"
+	"wx/intl.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/bitmap.h"
+	"wx/brush.h"
+	"wx/pen.h"
+	"wx/palette.h"
+	"wx/dynarray.h"
+	"wx/math.h"
+	"wx/image.h"
+	"wx/region.h"
+	"wx/affinematrix2d.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/pen.h"
+	"wx/x11/pen.h"
+	"wx/gtk/pen.h"
+	"wx/gtk1/pen.h"
+	"wx/dfb/pen.h"
+	"wx/osx/pen.h"
+	"wx/cocoa/pen.h"
+	"wx/os2/pen.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\msw\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\x11\pen.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk\pen.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\gtk1\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\dfb\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\osx\pen.h
+	"wx/gdiobj.h"
+	"wx/colour.h"
+	"wx/bitmap.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\pen.h
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\affinematrix2d.h
+	"wx/defs.h"
+	"wx/affinematrix2dbase.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\affinematrix2dbase.h
+	"wx/defs.h"
+	"wx/geometry.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\geometry.h
+	"wx/defs.h"
+	"wx/utils.h"
+	"wx/gdicmn.h"
+	"wx/math.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\window.h
+	"wx/cocoa/NSView.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\nsview.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\cocoa\objcassociate.h
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\os2\window.h
+	<os2.h>
+	"wx/hash.h"
+
+1384175917 e:\libraries\wxwidgets-3.0\include\wx\univ\window.h
+	"wx/bitmap.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\file.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/filefn.h"
+	"wx/convauto.h"
+
+1384175916 e:\libraries\wxwidgets-3.0\include\wx\convauto.h
+	"wx/strconv.h"
+	"wx/fontenc.h"
+
+1394474624 source:e:\projects cpp\rushlib\test\testpath.cpp
+	"unittest.h"
+

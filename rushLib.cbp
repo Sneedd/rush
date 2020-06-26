@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="rushLib" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/UtilityLibrary" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-D__DEBUG__" />
+					<Add option="-D_RUSH_DEBUG_" />
+					<Add option="-D_RUSH_WINDOWS_" />
+				</Compiler>
+			</Target>
+			<Target title="Debug Unicode">
+				<Option output="bin/Debug/UtilityLibrary-Unicode" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug-Unicode/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-D__DEBUG__" />
+					<Add option="-D_RUSH_DEBUG_" />
+					<Add option="-D_RUSH_UNICODE_" />
+					<Add option="-D_RUSH_WINDOWS_" />
+				</Compiler>
+			</Target>
+			<Target title="Debug wxWidgets">
+				<Option output="bin/Debug/UtilityLibrary-wxWidgets" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug-wxWidgets/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-mthreads" />
+					<Add option="-pipe" />
+					<Add option="-D__DEBUG__" />
+					<Add option="-D_RUSH_DEBUG_" />
+					<Add option="-D_RUSH_UNICODE_" />
+					<Add option="-D_RUSH_SUPPORTS_WXWIDGETS_" />
+					<Add option="-D_RUSH_WINDOWS_" />
+					<Add directory="E:/Libraries/wxWidgets-3.0/include" />
+					<Add directory="E:/Libraries/wxWidgets-3.0/lib/wx/include/msw-unicode-static-3.0" />
+				</Compiler>
+				<Linker>
+					<Add library="wx_mswu-3.0" />
+					<Add library="wxscintilla-3.0" />
+					<Add library="wxexpat-3.0" />
+					<Add library="wxtiff-3.0" />
+					<Add library="wxjpeg-3.0" />
+					<Add library="wxpng-3.0" />
+					<Add library="wxzlib-3.0" />
+					<Add library="gdi32" />
+					<Add library="winspool" />
+					<Add library="winmm" />
+					<Add library="shell32" />
+					<Add library="comdlg32" />
+					<Add library="comctl32" />
+					<Add library="ctl3d32" />
+					<Add library="odbc32" />
+					<Add library="advapi32" />
+					<Add library="wsock32" />
+					<Add library="ole32" />
+					<Add library="oleaut32" />
+					<Add library="uuid" />
+					<Add directory="E:/Libraries/wxWidgets-3.0/lib" />
+				</Linker>
+			</Target>
+			<Target title="Library">
+				<Option output="bin/Library/rush" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Library/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-Wall" />
+					<Add option="-D_RUSH_WINDOWS_" />
+				</Compiler>
+				<ExtraCommands>
+					<Add after="E:\Projects CPP\rushLib\install.bat" />
+					<Mode after="always" />
+				</ExtraCommands>
+			</Target>
+			<Target title="Library Unicode">
+				<Option output="bin/Library/rush-unicode" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Library-Unicode/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-Wall" />
+					<Add option="-D_RUSH_UNICODE_" />
+					<Add option="-D_RUSH_WINDOWS_" />
+				</Compiler>
+				<ExtraCommands>
+					<Add after="E:\Projects CPP\rushLib\install.bat" />
+					<Mode after="always" />
+				</ExtraCommands>
+			</Target>
+			<Target title="Library wxWidgets">
+				<Option output="bin/Library/rush-wx" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Library-wxWidgets/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-Wall" />
+					<Add option="-mthreads" />
+					<Add option="-pipe" />
+					<Add option="-D_RUSH_UNICODE_" />
+					<Add option="-D_RUSH_SUPPORTS_WXWIDGETS_" />
+					<Add option="-D_RUSH_WINDOWS_" />
+					<Add directory="E:/Libraries/wxWidgets-3.0/include" />
+					<Add directory="E:/Libraries/wxWidgets-3.0/lib/wx/include/msw-unicode-static-3.0" />
+				</Compiler>
+				<Linker>
+					<Add library="wx_mswu-3.0" />
+					<Add library="wxscintilla-3.0" />
+					<Add library="wxexpat-3.0" />
+					<Add library="wxtiff-3.0" />
+					<Add library="wxjpeg-3.0" />
+					<Add library="wxpng-3.0" />
+					<Add library="wxzlib-3.0" />
+					<Add library="gdi32" />
+					<Add library="winspool" />
+					<Add library="winmm" />
+					<Add library="shell32" />
+					<Add library="comdlg32" />
+					<Add library="comctl32" />
+					<Add library="ctl3d32" />
+					<Add library="odbc32" />
+					<Add library="advapi32" />
+					<Add library="wsock32" />
+					<Add library="ole32" />
+					<Add library="oleaut32" />
+					<Add library="uuid" />
+					<Add directory="E:/Libraries/wxWidgets-3.0/lib" />
+				</Linker>
+				<ExtraCommands>
+					<Add after="E:\Projects CPP\rushLib\install.bat" />
+					<Mode after="always" />
+				</ExtraCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add option="-std=gnu++0x" />
+			<Add option="-U__STRICT_ANSI__" />
+			<Add directory="include" />
+		</Compiler>
+		<Unit filename="docs/doxyfile" />
+		<Unit filename="include/rush/array.h" />
+		<Unit filename="include/rush/backtrace.h" />
+		<Unit filename="include/rush/bitarray.h" />
+		<Unit filename="include/rush/buildinexpect.h" />
+		<Unit filename="include/rush/callback.h" />
+		<Unit filename="include/rush/circularbuffer.h" />
+		<Unit filename="include/rush/comparer.h" />
+		<Unit filename="include/rush/config.h" />
+		<Unit filename="include/rush/console.h" />
+		<Unit filename="include/rush/convert.h" />
+		<Unit filename="include/rush/dictionary.h" />
+		<Unit filename="include/rush/documentation.h" />
+		<Unit filename="include/rush/list.h" />
+		<Unit filename="include/rush/log.h" />
+		<Unit filename="include/rush/logtarget.h" />
+		<Unit filename="include/rush/macros.h" />
+		<Unit filename="include/rush/mathevaluation.h" />
+		<Unit filename="include/rush/mathopcode.h" />
+		<Unit filename="include/rush/mathtokenizer.h" />
+		<Unit filename="include/rush/memory.h" />
+		<Unit filename="include/rush/objectarray.h" />
+		<Unit filename="include/rush/objectarrayflags.h" />
+		<Unit filename="include/rush/objectdeque.h" />
+		<Unit filename="include/rush/objectqueue.h" />
+		<Unit filename="include/rush/objectstack.h" />
+		<Unit filename="include/rush/parser.h" />
+		<Unit filename="include/rush/path.h" />
+		<Unit filename="include/rush/preprocessor.h" />
+		<Unit filename="include/rush/priorityqueue.h" />
+		<Unit filename="include/rush/random.h" />
+		<Unit filename="include/rush/rect.h" />
+		<Unit filename="include/rush/reverselist.h" />
+		<Unit filename="include/rush/rush.h" />
+		<Unit filename="include/rush/stack.h" />
+		<Unit filename="include/rush/string.h" />
+		<Unit filename="include/rush/stringarray.h" />
+		<Unit filename="include/rush/system.h" />
+		<Unit filename="include/rush/vector.h" />
+		<Unit filename="include/rush/vector2.h" />
+		<Unit filename="include/rush/vector3.h" />
+		<Unit filename="include/rush/version.h" />
+		<Unit filename="install.bat" />
+		<Unit filename="license.txt" />
+		<Unit filename="main.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="progress.txt">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="readme.txt" />
+		<Unit filename="src/backtrace.cpp" />
+		<Unit filename="src/bitarray.cpp" />
+		<Unit filename="src/console.cpp" />
+		<Unit filename="src/convert.cpp" />
+		<Unit filename="src/log.cpp" />
+		<Unit filename="src/logtarget.cpp" />
+		<Unit filename="src/mathdefaultfunctions.h" />
+		<Unit filename="src/mathevaluation.cpp" />
+		<Unit filename="src/mathopcode.cpp" />
+		<Unit filename="src/mathtokenizer.cpp" />
+		<Unit filename="src/mathvariable.h" />
+		<Unit filename="src/memory.cpp" />
+		<Unit filename="src/parser.cpp" />
+		<Unit filename="src/path.cpp" />
+		<Unit filename="src/preprocessor.cpp" />
+		<Unit filename="src/random.cpp" />
+		<Unit filename="src/string.cpp" />
+		<Unit filename="src/stringarray.cpp" />
+		<Unit filename="src/system.cpp" />
+		<Unit filename="src/version.cpp" />
+		<Unit filename="test/testarray.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/testconvert.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/testlist.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/testmathevaluation.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/testobjectarray.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/testobjectdeque.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/testobjectqueue.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/testobjectstack.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/testparser.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/testpath.cpp" />
+		<Unit filename="test/testrandom.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/teststring.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/teststringarray.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/testvector.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/testversion.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/unittest.cpp">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/unittest.h">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Unit filename="test/unittestresult.h">
+			<Option target="Debug" />
+			<Option target="Debug Unicode" />
+			<Option target="Debug wxWidgets" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
